@@ -1,7 +1,32 @@
-import {Company} from './Company';
+import {inject} from 'aurelia-dependency-injection';
+import {HttpClient} from 'aurelia-fetch-client';
+import { Router } from 'aurelia-router';
 
+
+@inject(Router, HttpClient)
 export class update {
-  updatedCompany = new Company('', '', '', '', '');
+
+  constructor(router, client) {
+    this.router = router;
+    this.client = client;
+  }
+  activate(params) {
+    this.client.fetch('data.json')
+      .then(response => response.json())
+      .then(companies => {
+        this.company = companies.find(c => c.id.toString() === params.id)
+      });
+  }
+
+  updateCompany() {
+    //request to back end
+  }
+
+  goBack() {
+    this.router.navigateToRoute('marketdata');
+  }
+
+  /*updatedCompany = new Company('', '', '', '', '');
   constructor(company, code, active, address, city) {
     this.company = company;
     this.code = code;
@@ -36,5 +61,5 @@ export class update {
       }
     }
     return false;
-  }
+  }*/
 }

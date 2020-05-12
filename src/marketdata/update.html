@@ -1,14 +1,68 @@
-<div *ngIf="company" class="container">
+<template>
+  <div if.bind="company" class="container">
+    <h2>Update ${company.company}</h2>
+    <div>
+      <form class="form-style">
+
+        <div class="form-group">
+          <label for="company">Company</label>
+          <input type="text"
+                 class="form-control" id="company"
+                 value.bind="company.company" name="company"
+                 #company="ngModel">
+        </div>
+        <div class="form-group">
+          <label for="code">Code</label>
+          <span>
+          <input type="number" pattern="[0-9]*" class="form-control" id="code"
+                 value.bind="company.code" name="code"
+                 #code="ngModel">
+        </span>
+        </div>
+        <div class="form-group">
+          <label for="active">Active</label>
+          <span>
+           <input type="text"
+                  class="form-control" id="active"
+                  value.bind="company.active" name="active"
+                  #active="ngModel">
+        </span>
+        </div>
+        <div class="form-group">
+          <label for="address">Address</label>
+          <input type="text" class="form-control" id="address"
+                 value.bind="company.address" name="address"
+                 #description="ngModel">
+        </div>
+        <div class="form-group">
+          <label for="city">City</label>
+          <input type="text" class="form-control" id="city"
+                 value.bind="company.city" name="city"
+                 #description="ngModel">
+        </div>
+        <button class="btn" click.trigger="goBack()">Back</button>
+        <button click.trigger="updateCompany()" class="btn btn-success">Submit
+        </button>
+      </form>
+    </div>
+
+  </div>
+  <div else>
+    <h2>No Company to update!</h2>
+    <button class="btn" click.trigger="goBack()">Back</button>
+  </div>
+</template>
+
+<!--<div *ngIf="company" class="container">
   <h2>Update {{Company.company}}</h2>
   <div>
     <form class="form-style" (ngSubmit)="onSubmit()" #updateForm="ngForm">
-
       <div class="form-group">
         <label for="company">Company</label>
         <input type="text"
                placeholder="{{Company.company}}"
                class="form-control" id="company"
-               [(ngModel)]="updatedCompany.company" name="company"
+               value.bind="company.company" name="company"
                #company="ngModel">
       </div>
       <div class="form-group">
@@ -16,7 +70,7 @@
         <span>
         <input type="number" pattern="[0-9]*" class="form-control" id="code"
                placeholder="{{company.code}}"
-               [(ngModel)]="updatedCompany.code" name="code"
+               value.bind="company.code" name="code"
                #code="ngModel">
       </span>
       </div>
@@ -26,21 +80,21 @@
          <input type="text"
                 placeholder="{{company.active}}"
                 class="form-control" id="active"
-                [(ngModel)]="updatedCompany.active" name="active"
+                value.bind="company.active" name="active"
                 #active="ngModel">
       </span>
       </div>
       <div class="form-group">
         <label for="address">Address</label>
         <input type="text" class="form-control" id="address"
-               [(ngModel)]="updatedcompany.address" name="address"
+               value.bind="company.address" name="address"
                placeholder="{{company.address}}"
                #description="ngModel">
       </div>
       <div class="form-group">
         <label for="city">City</label>
         <input type="text" class="form-control" id="city"
-               [(ngModel)]="updatedcompany.city" name="city"
+               value.bind="company.city" name="city"
                placeholder="{{company.city}}"
                #description="ngModel">
       </div>
@@ -50,12 +104,8 @@
       </button>
     </form>
   </div>
-
 </div>
 <div *ngIf="!company">
   <h2>No Company to update!</h2>
   <button class="btn" (click)="goBack()">Back</button>
-</div>
-
-
-
+</div>-->
