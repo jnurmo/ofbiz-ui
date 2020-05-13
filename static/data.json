@@ -1,5 +1,7 @@
+
 [
   {
+    "id": 0,
     "company": "001 group OÜ",
     "code": 12754230,
     "active": "Registrisse kantud",
@@ -7,6 +9,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 1,
     "company": "001 Kinnisvara OÜ",
     "code": 12652512,
     "active": "Registrisse kantud",
@@ -14,6 +17,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 2,
     "company": "007 Autohaus osaühing",
     "code": 11694365,
     "active": "Registrisse kantud",
@@ -21,6 +25,7 @@
     "city": ""
   },
   {
+    "id": 3,
     "company": "013 investment OÜ",
     "code": 12937781,
     "active": "Registrisse kantud",
@@ -28,6 +33,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 4,
     "company": "01Arvutiabi OÜ",
     "code": 14112620,
     "active": "Registrisse kantud",
@@ -35,6 +41,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 5,
     "company": "01 Creations Osaühing",
     "code": 10818150,
     "active": "Registrisse kantud",
@@ -42,6 +49,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 6,
     "company": "0dav riie OÜ",
     "code": 14288602,
     "active": "Registrisse kantud",
@@ -49,6 +57,7 @@
     "city": "Kehtna vald"
   },
   {
+    "id": 7,
     "company": "0 rent OÜ",
     "code": 14289174,
     "active": "Registrisse kantud",
@@ -56,6 +65,7 @@
     "city": "Põhja-Sakala vald"
   },
   {
+    "id": 8,
     "company": "0x00 OÜ",
     "code": 14809610,
     "active": "Registrisse kantud",
@@ -63,6 +73,7 @@
     "city": "Viimsi vald"
   },
   {
+    "id": 9,
     "company": "1000000INVEST OÜ",
     "code": 14433211,
     "active": "Registrisse kantud",
@@ -70,6 +81,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 10,
     "company": "1000 Extra OÜ",
     "code": 14085201,
     "active": "Registrisse kantud",
@@ -77,6 +89,7 @@
     "city": ""
   },
   {
+    "id": 11,
     "company": "1001 Investments OÜ",
     "code": 11142683,
     "active": "Registrisse kantud",
@@ -84,6 +97,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 12,
     "company": "1001 Night OÜ",
     "code": 14637155,
     "active": "Registrisse kantud",
@@ -91,6 +105,7 @@
     "city": "Harju maakond"
   },
   {
+    "id": 13,
     "company": "1001 Properties OÜ",
     "code": 14923889,
     "active": "Registrisse kantud",
@@ -98,6 +113,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 14,
     "company": "100% Carbon OÜ",
     "code": 12441287,
     "active": "Registrisse kantud",
@@ -105,6 +121,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 15,
     "company": "100CAR OÜ",
     "code": 11163018,
     "active": "Registrisse kantud",
@@ -112,6 +129,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 16,
     "company": "100 doors OÜ",
     "code": 12489420,
     "active": "Registrisse kantud",
@@ -119,6 +137,7 @@
     "city": "Pärnu linn"
   },
   {
+    "id": 17,
     "company": "100% Go OÜ",
     "code": 14364310,
     "active": "Registrisse kantud",
@@ -126,6 +145,7 @@
     "city": "Rakvere vald"
   },
   {
+    "id": 18,
     "company": "100KINGITUST OÜ",
     "code": 12036279,
     "active": "Registrisse kantud",
@@ -133,6 +153,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 19,
     "company": "100lippu OÜ",
     "code": 14381081,
     "active": "Registrisse kantud",
@@ -140,6 +161,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 20,
     "company": "100m³ Täiteliiva UÜ",
     "code": 12816095,
     "active": "Registrisse kantud",
@@ -147,6 +169,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 21,
     "company": "10.0 OÜ",
     "code": 14615952,
     "active": "Registrisse kantud",
@@ -154,6 +177,7 @@
     "city": "Rapla vald"
   },
   {
+    "id": 22,
     "company": "100 Vill OÜ",
     "code": 12855190,
     "active": "Registrisse kantud",
@@ -161,6 +185,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 23,
     "company": "100 Wool OÜ",
     "code": 12189250,
     "active": "Registrisse kantud",
@@ -168,6 +193,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 24,
     "company": "101 Dream OÜ",
     "code": 12979650,
     "active": "Registrisse kantud",
@@ -175,6 +201,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 25,
     "company": "101Kapital Deutsch OÜ",
     "code": 14482190,
     "active": "Registrisse kantud",
@@ -182,6 +209,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 26,
     "company": "101Kapital International OÜ",
     "code": 14439248,
     "active": "Registrisse kantud",
@@ -189,6 +217,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 27,
     "company": "101km OÜ",
     "code": 14064469,
     "active": "Registrisse kantud",
@@ -196,6 +225,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 28,
     "company": "101Timber OÜ",
     "code": 14611316,
     "active": "Registrisse kantud",
@@ -203,6 +233,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 29,
     "company": "101 Visiooni OÜ",
     "code": 11098315,
     "active": "Registrisse kantud",
@@ -210,6 +241,7 @@
     "city": "Rae vald"
   },
   {
+    "id": 30,
     "company": "1024 OÜ",
     "code": 11935521,
     "active": "Registrisse kantud",
@@ -217,6 +249,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 31,
     "company": "102 Property Holding OÜ",
     "code": 11979116,
     "active": "Registrisse kantud",
@@ -224,6 +257,7 @@
     "city": "Viimsi vald"
   },
   {
+    "id": 32,
     "company": "10 ASJA OÜ",
     "code": 12765245,
     "active": "Registrisse kantud",
@@ -231,6 +265,7 @@
     "city": "Saku vald"
   },
   {
+    "id": 33,
     "company": "10 Capital OÜ",
     "code": 12771820,
     "active": "Registrisse kantud",
@@ -238,6 +273,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 34,
     "company": "10 Distribution Group OÜ",
     "code": 11413202,
     "active": "Registrisse kantud",
@@ -245,6 +281,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 35,
     "company": "10Dspace OÜ",
     "code": 14318875,
     "active": "Likvideerimisel",
@@ -252,6 +289,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 36,
     "company": "10fevrier OÜ",
     "code": 14449287,
     "active": "Registrisse kantud",
@@ -259,6 +297,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 37,
     "company": "10Guards OÜ",
     "code": 14514694,
     "active": "Registrisse kantud",
@@ -266,6 +305,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 38,
     "company": "10K Ventures OÜ",
     "code": 14733580,
     "active": "Registrisse kantud",
@@ -273,6 +313,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 39,
     "company": "10Lines OÜ",
     "code": 14793777,
     "active": "Registrisse kantud",
@@ -280,6 +321,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 40,
     "company": "10L OÜ",
     "code": 14154818,
     "active": "Registrisse kantud",
@@ -287,6 +329,7 @@
     "city": "Otepää vald"
   },
   {
+    "id": 41,
     "company": "10-to-10 Osaühing",
     "code": 14543494,
     "active": "Registrisse kantud",
@@ -294,6 +337,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 42,
     "company": "10XCapital OÜ",
     "code": 14755274,
     "active": "Registrisse kantud",
@@ -301,6 +345,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 43,
     "company": "10X OÜ",
     "code": 14014023,
     "active": "Registrisse kantud",
@@ -308,6 +353,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 44,
     "company": "10xVentures OÜ",
     "code": 12716235,
     "active": "Registrisse kantud",
@@ -315,6 +361,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 45,
     "company": "11059 OÜ",
     "code": 14459446,
     "active": "Registrisse kantud",
@@ -322,6 +369,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 46,
     "company": "110 Kv OÜ",
     "code": 14708725,
     "active": "Registrisse kantud",
@@ -329,6 +377,7 @@
     "city": "Rapla vald"
   },
   {
+    "id": 47,
     "company": "1111 KOMA 1111 OÜ",
     "code": 12870226,
     "active": "Registrisse kantud",
@@ -336,6 +385,7 @@
     "city": "Põlva vald"
   },
   {
+    "id": 48,
     "company": "111.ee OÜ",
     "code": 14256097,
     "active": "Registrisse kantud",
@@ -343,6 +393,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 49,
     "company": "112 Kinnisvara OÜ",
     "code": 12582243,
     "active": "Registrisse kantud",
@@ -350,6 +401,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 50,
     "company": "113115 OÜ",
     "code": 14207785,
     "active": "Registrisse kantud",
@@ -357,6 +409,7 @@
     "city": ""
   },
   {
+    "id": 51,
     "company": "116 OÜ",
     "code": 11326710,
     "active": "Registrisse kantud",
@@ -364,6 +417,7 @@
     "city": "Mulgi vald"
   },
   {
+    "id": 52,
     "company": "118finder OÜ",
     "code": 12329780,
     "active": "Registrisse kantud",
@@ -371,6 +425,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 53,
     "company": "11 Meelt ja Maitset OÜ",
     "code": 12577503,
     "active": "Registrisse kantud",
@@ -378,6 +433,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 54,
     "company": "11squared OÜ",
     "code": 14805500,
     "active": "Registrisse kantud",
@@ -385,6 +441,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 55,
     "company": "11tools OÜ",
     "code": 14562960,
     "active": "Registrisse kantud",
@@ -392,6 +449,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 56,
     "company": "120bpm OÜ",
     "code": 14330468,
     "active": "Registrisse kantud",
@@ -399,6 +457,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 57,
     "company": "12.12.12 UÜ",
     "code": 12391106,
     "active": "Registrisse kantud",
@@ -406,6 +465,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 58,
     "company": "12-24 OÜ",
     "code": 14401916,
     "active": "Registrisse kantud",
@@ -413,6 +473,7 @@
     "city": "Ida-Viru maakond"
   },
   {
+    "id": 59,
     "company": "123 ABAKUS OÜ",
     "code": 14072635,
     "active": "Registrisse kantud",
@@ -420,6 +481,7 @@
     "city": "Saku vald"
   },
   {
+    "id": 60,
     "company": "123 ACCOUNTING OÜ",
     "code": 12502764,
     "active": "Registrisse kantud",
@@ -427,6 +489,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 61,
     "company": "123Apartments OÜ",
     "code": 14159313,
     "active": "Registrisse kantud",
@@ -434,6 +497,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 62,
     "company": "123 Autoosad OÜ",
     "code": 12243067,
     "active": "Registrisse kantud",
@@ -441,6 +505,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 63,
     "company": "123 Baltic OÜ",
     "code": 12218141,
     "active": "Registrisse kantud",
@@ -448,6 +513,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 64,
     "company": "123.ee OÜ",
     "code": 11112363,
     "active": "Registrisse kantud",
@@ -455,6 +521,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 65,
     "company": "1-2-3 EHITUS OÜ",
     "code": 14248152,
     "active": "Registrisse kantud",
@@ -462,6 +529,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 66,
     "company": "123FILTRIPOOD OÜ",
     "code": 14812440,
     "active": "Registrisse kantud",
@@ -469,6 +537,7 @@
     "city": "Rae vald"
   },
   {
+    "id": 67,
     "company": "123 Grupp OÜ",
     "code": 11342212,
     "active": "Registrisse kantud",
@@ -476,6 +545,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 68,
     "company": "123 Haldus OÜ",
     "code": 11999934,
     "active": "Registrisse kantud",
@@ -483,6 +553,7 @@
     "city": "Saaremaa vald"
   },
   {
+    "id": 69,
     "company": "1-2-3 Hooldus OÜ",
     "code": 14248131,
     "active": "Registrisse kantud",
@@ -490,6 +561,7 @@
     "city": "Kohila vald"
   },
   {
+    "id": 70,
     "company": "123 Kindlustuskonsultatsioonid OÜ",
     "code": 11350281,
     "active": "Registrisse kantud",
@@ -497,6 +569,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 71,
     "company": "123 Kinnisvarahalduse OÜ",
     "code": 12459531,
     "active": "Registrisse kantud",
@@ -504,6 +577,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 72,
     "company": "123Kunert OÜ",
     "code": 14290220,
     "active": "Registrisse kantud",
@@ -511,6 +585,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 73,
     "company": "123-Mobile OÜ",
     "code": 14262092,
     "active": "Registrisse kantud",
@@ -518,6 +593,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 74,
     "company": "123OK OÜ",
     "code": 12791047,
     "active": "Registrisse kantud",
@@ -525,6 +601,7 @@
     "city": "Pärnu linn"
   },
   {
+    "id": 75,
     "company": "123OSA OÜ",
     "code": 12621598,
     "active": "Registrisse kantud",
@@ -532,6 +609,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 76,
     "company": "123 OÜ",
     "code": 12040996,
     "active": "Registrisse kantud",
@@ -539,6 +617,7 @@
     "city": "Saaremaa vald"
   },
   {
+    "id": 77,
     "company": "123pesula OÜ",
     "code": 14649164,
     "active": "Registrisse kantud",
@@ -546,6 +625,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 78,
     "company": "123projekt OÜ",
     "code": 10047126,
     "active": "Registrisse kantud",
@@ -553,6 +633,7 @@
     "city": "Harju maakond"
   },
   {
+    "id": 79,
     "company": "123Puksiir OÜ",
     "code": 14414780,
     "active": "Registrisse kantud",
@@ -560,6 +641,7 @@
     "city": "Harju maakond"
   },
   {
+    "id": 80,
     "company": "123 Raamatupidamine OÜ",
     "code": 11377437,
     "active": "Registrisse kantud",
@@ -567,6 +649,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 81,
     "company": "123 Reklaam OÜ",
     "code": 11346724,
     "active": "Registrisse kantud",
@@ -574,6 +657,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 82,
     "company": "123tracking OÜ",
     "code": 12991705,
     "active": "Registrisse kantud",
@@ -581,6 +665,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 83,
     "company": "123Trade OÜ",
     "code": 12020137,
     "active": "Registrisse kantud",
@@ -588,6 +673,7 @@
     "city": "Valga vald"
   },
   {
+    "id": 84,
     "company": "123Transport OÜ",
     "code": 12582384,
     "active": "Registrisse kantud",
@@ -595,6 +681,7 @@
     "city": "Saue vald"
   },
   {
+    "id": 85,
     "company": "123 Vara OÜ",
     "code": 14367603,
     "active": "Registrisse kantud",
@@ -602,6 +689,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 86,
     "company": "128Bit OÜ",
     "code": 14767722,
     "active": "Registrisse kantud",
@@ -609,6 +697,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 87,
     "company": "12. Aprilli Selts",
     "code": 80320996,
     "active": "Registrisse kantud",
@@ -616,6 +705,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 88,
     "company": "12 Capital OÜ",
     "code": 12211570,
     "active": "Registrisse kantud",
@@ -623,6 +713,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 89,
     "company": "12FIX OÜ",
     "code": 12843287,
     "active": "Registrisse kantud",
@@ -630,6 +721,7 @@
     "city": "Saue vald"
   },
   {
+    "id": 90,
     "company": "12kuud haldus OÜ",
     "code": 12883921,
     "active": "Registrisse kantud",
@@ -637,6 +729,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 91,
     "company": "12 Maja OÜ",
     "code": 12301116,
     "active": "Registrisse kantud",
@@ -644,6 +737,7 @@
     "city": "Kambja vald"
   },
   {
+    "id": 92,
     "company": "1/2 Mind OÜ",
     "code": 11550459,
     "active": "Registrisse kantud",
@@ -651,6 +745,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 93,
     "company": "12 märki OÜ",
     "code": 12901659,
     "active": "Registrisse kantud",
@@ -658,6 +753,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 94,
     "company": "12th Avenue OÜ",
     "code": 14410569,
     "active": "Registrisse kantud",
@@ -665,6 +761,7 @@
     "city": "Tori vald"
   },
   {
+    "id": 95,
     "company": "12v24v OÜ",
     "code": 14748386,
     "active": "Registrisse kantud",
@@ -672,6 +769,7 @@
     "city": "Ida-Viru maakond"
   },
   {
+    "id": 96,
     "company": "12 Vara OÜ",
     "code": 14364993,
     "active": "Registrisse kantud",
@@ -679,6 +777,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 97,
     "company": "12V OÜ",
     "code": 12273465,
     "active": "Registrisse kantud",
@@ -686,6 +785,7 @@
     "city": "Ida-Viru maakond"
   },
   {
+    "id": 98,
     "company": "13.10 Investments OÜ",
     "code": 14355149,
     "active": "Registrisse kantud",
@@ -693,6 +793,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 99,
     "company": "1337 OÜ",
     "code": 14055364,
     "active": "Registrisse kantud",
@@ -700,6 +801,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 100,
     "company": "13 boksiline hooneühistu Pärnu mnt 548C",
     "code": 80115250,
     "active": "Registrisse kantud",
@@ -707,6 +809,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 101,
     "company": "13 ehitusprojekt OÜ",
     "code": 14576040,
     "active": "Registrisse kantud",
@@ -714,6 +817,7 @@
     "city": "Kohtla-Järve linn"
   },
   {
+    "id": 102,
     "company": "13solutions OÜ",
     "code": 14672464,
     "active": "Registrisse kantud",
@@ -721,6 +825,7 @@
     "city": "Viljandi maakond"
   },
   {
+    "id": 103,
     "company": "15075 OÜ",
     "code": 10399776,
     "active": "Registrisse kantud",
@@ -728,6 +833,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 104,
     "company": "150k OÜ",
     "code": 12856686,
     "active": "Registrisse kantud",
@@ -735,6 +841,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 105,
     "company": "150N OÜ",
     "code": 14542561,
     "active": "Registrisse kantud",
@@ -742,6 +849,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 106,
     "company": "159ART OÜ",
     "code": 14905199,
     "active": "Registrisse kantud",
@@ -749,6 +857,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 107,
     "company": "15adala OÜ",
     "code": 14943900,
     "active": "Registrisse kantud",
@@ -756,6 +865,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 108,
     "company": "15 OÜ",
     "code": 12271945,
     "active": "Registrisse kantud",
@@ -763,6 +873,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 109,
     "company": "15 Tamme OÜ",
     "code": 12949873,
     "active": "Registrisse kantud",
@@ -770,6 +881,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 110,
     "company": "16lrm OÜ",
     "code": 14461785,
     "active": "Registrisse kantud",
@@ -777,6 +889,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 111,
     "company": "16 Sulge OÜ",
     "code": 12357428,
     "active": "Registrisse kantud",
@@ -784,6 +897,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 112,
     "company": "17 Kevadet OÜ",
     "code": 12063632,
     "active": "Registrisse kantud",
@@ -791,6 +905,7 @@
     "city": "Viljandi maakond"
   },
   {
+    "id": 113,
     "company": "180 OÜ",
     "code": 14397679,
     "active": "Registrisse kantud",
@@ -798,6 +913,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 114,
     "company": "1865 Dirndl OÜ",
     "code": 14774231,
     "active": "Registrisse kantud",
@@ -805,6 +921,7 @@
     "city": "Saku vald"
   },
   {
+    "id": 115,
     "company": "18k Agency OÜ",
     "code": 14931044,
     "active": "Registrisse kantud",
@@ -812,6 +929,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 116,
     "company": "1911 Estonian Shooting OÜ",
     "code": 14354865,
     "active": "Registrisse kantud",
@@ -819,6 +937,7 @@
     "city": "Viimsi vald"
   },
   {
+    "id": 117,
     "company": "1919Forward OÜ",
     "code": 14809099,
     "active": "Registrisse kantud",
@@ -826,6 +945,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 118,
     "company": "19\" Customs OÜ",
     "code": 14488896,
     "active": "Registrisse kantud",
@@ -833,6 +953,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 119,
     "company": "1A1CRYPTO OÜ",
     "code": 14836564,
     "active": "Registrisse kantud",
@@ -840,6 +961,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 120,
     "company": "1Adviser UÜ",
     "code": 14704667,
     "active": "Registrisse kantud",
@@ -847,6 +969,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 121,
     "company": "1A.EE OÜ",
     "code": 11786222,
     "active": "Registrisse kantud",
@@ -854,6 +977,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 122,
     "company": "1AGENCY & CO OÜ",
     "code": 14565958,
     "active": "Registrisse kantud",
@@ -861,6 +985,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 123,
     "company": "1 Agent Teenused OÜ",
     "code": 11260164,
     "active": "Registrisse kantud",
@@ -868,6 +993,7 @@
     "city": "Rapla vald"
   },
   {
+    "id": 124,
     "company": "1A GEODEESIA OÜ",
     "code": 11968472,
     "active": "Registrisse kantud",
@@ -875,6 +1001,7 @@
     "city": "Hiiumaa vald"
   },
   {
+    "id": 125,
     "company": "1AK200 OÜ",
     "code": 12904793,
     "active": "Registrisse kantud",
@@ -882,6 +1009,7 @@
     "city": "Ida-Viru maakond"
   },
   {
+    "id": 126,
     "company": "1Apteek OÜ",
     "code": 14277283,
     "active": "Registrisse kantud",
@@ -889,6 +1017,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 127,
     "company": "1A Rehvid OÜ",
     "code": 14375471,
     "active": "Registrisse kantud",
@@ -896,6 +1025,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 128,
     "company": "1Aruandlus OÜ",
     "code": 14097813,
     "active": "Registrisse kantud",
@@ -903,6 +1033,7 @@
     "city": "Rae vald"
   },
   {
+    "id": 129,
     "company": "1ATM Kinnisvara OÜ",
     "code": 14382092,
     "active": "Registrisse kantud",
@@ -910,6 +1041,7 @@
     "city": "Lääne-Viru maakond"
   },
   {
+    "id": 130,
     "company": "1Autod OÜ",
     "code": 14699587,
     "active": "Registrisse kantud",
@@ -917,6 +1049,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 131,
     "company": "1BIT OÜ",
     "code": 14381842,
     "active": "Registrisse kantud",
@@ -924,6 +1057,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 132,
     "company": "1Brooker OÜ",
     "code": 14010255,
     "active": "Registrisse kantud",
@@ -931,6 +1065,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 133,
     "company": "1Bussirent OÜ",
     "code": 14266055,
     "active": "Registrisse kantud",
@@ -938,6 +1073,7 @@
     "city": "Kose vald"
   },
   {
+    "id": 134,
     "company": "1Capital Group OÜ",
     "code": 14802921,
     "active": "Registrisse kantud",
@@ -945,6 +1081,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 135,
     "company": "1Capital OÜ",
     "code": 12656444,
     "active": "Registrisse kantud",
@@ -952,6 +1089,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 136,
     "company": "1CARGO OÜ",
     "code": 12205204,
     "active": "Registrisse kantud",
@@ -959,6 +1097,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 137,
     "company": "1 CargoPlus OÜ",
     "code": 12604950,
     "active": "Registrisse kantud",
@@ -966,6 +1105,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 138,
     "company": "1CATERING OÜ",
     "code": 12711539,
     "active": "Registrisse kantud",
@@ -973,6 +1113,7 @@
     "city": "Jõelähtme vald"
   },
   {
+    "id": 139,
     "company": "1Class Ehitus OÜ",
     "code": 14772736,
     "active": "Registrisse kantud",
@@ -980,6 +1121,7 @@
     "city": "Harju maakond"
   },
   {
+    "id": 140,
     "company": "1Construct OÜ",
     "code": 12144885,
     "active": "Registrisse kantud",
@@ -987,6 +1129,7 @@
     "city": "Pärnu linn"
   },
   {
+    "id": 141,
     "company": "1CONTACT OÜ",
     "code": 11375045,
     "active": "Registrisse kantud",
@@ -994,6 +1137,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 142,
     "company": "1Credit OÜ",
     "code": 11644893,
     "active": "Registrisse kantud",
@@ -1001,6 +1145,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 143,
     "company": "1DEVE Crane Activities OÜ",
     "code": 12561608,
     "active": "Registrisse kantud",
@@ -1008,6 +1153,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 144,
     "company": "1D Games OÜ",
     "code": 14411741,
     "active": "Registrisse kantud",
@@ -1015,6 +1161,7 @@
     "city": "Kuusalu vald"
   },
   {
+    "id": 145,
     "company": "1Diil OÜ",
     "code": 12387062,
     "active": "Registrisse kantud",
@@ -1022,6 +1169,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 146,
     "company": "1DOX Digital OÜ",
     "code": 12595949,
     "active": "Registrisse kantud",
@@ -1029,6 +1177,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 147,
     "company": "1Dream OÜ",
     "code": 14138417,
     "active": "Registrisse kantud",
@@ -1036,6 +1185,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 148,
     "company": "1Ehitus OÜ",
     "code": 12950379,
     "active": "Likvideerimisel",
@@ -1043,6 +1193,7 @@
     "city": ""
   },
   {
+    "id": 149,
     "company": "1equation OÜ",
     "code": 14421159,
     "active": "Registrisse kantud",
@@ -1050,6 +1201,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 150,
     "company": "1Eritööd OÜ",
     "code": 14597378,
     "active": "Registrisse kantud",
@@ -1057,6 +1209,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 151,
     "company": "1Estate Group OÜ",
     "code": 14503874,
     "active": "Registrisse kantud",
@@ -1064,6 +1217,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 152,
     "company": "1Esthaus Kinnisvara OÜ",
     "code": 14264441,
     "active": "Registrisse kantud",
@@ -1071,6 +1225,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 153,
     "company": "1 Ettevõte OÜ",
     "code": 11144713,
     "active": "Registrisse kantud",
@@ -1078,6 +1233,7 @@
     "city": "Rae vald"
   },
   {
+    "id": 154,
     "company": "1Fassaad OÜ",
     "code": 14355072,
     "active": "Registrisse kantud",
@@ -1085,6 +1241,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 155,
     "company": "1Finance OÜ",
     "code": 14097463,
     "active": "Registrisse kantud",
@@ -1092,6 +1249,7 @@
     "city": "Lääne-Viru maakond"
   },
   {
+    "id": 156,
     "company": "1Firmad OÜ",
     "code": 12387866,
     "active": "Registrisse kantud",
@@ -1099,6 +1257,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 157,
     "company": "1fox Service OÜ",
     "code": 14309215,
     "active": "Registrisse kantud",
@@ -1106,6 +1265,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 158,
     "company": "1GEST OÜ",
     "code": 14657778,
     "active": "Registrisse kantud",
@@ -1113,6 +1273,7 @@
     "city": "Lääne-Viru maakond"
   },
   {
+    "id": 159,
     "company": "1Grupp A&M OÜ",
     "code": 11876557,
     "active": "Pankrotis",
@@ -1120,6 +1281,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 160,
     "company": "1haljastus OÜ",
     "code": 14074924,
     "active": "Registrisse kantud",
@@ -1127,6 +1289,7 @@
     "city": "Elva vald"
   },
   {
+    "id": 161,
     "company": "1HEA Service OÜ",
     "code": 14758580,
     "active": "Registrisse kantud",
@@ -1134,6 +1297,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 162,
     "company": "1 Hetk OÜ",
     "code": 14373615,
     "active": "Registrisse kantud",
@@ -1141,6 +1305,7 @@
     "city": "Rapla vald"
   },
   {
+    "id": 163,
     "company": "1Home Group AS",
     "code": 12793135,
     "active": "Registrisse kantud",
@@ -1148,6 +1313,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 164,
     "company": "1INTERNET OÜ",
     "code": 14352719,
     "active": "Registrisse kantud",
@@ -1155,6 +1321,7 @@
     "city": "Tori vald"
   },
   {
+    "id": 165,
     "company": "1 Investing OÜ",
     "code": 14278532,
     "active": "Registrisse kantud",
@@ -1162,6 +1329,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 166,
     "company": "1Invest Management OÜ",
     "code": 12766983,
     "active": "Registrisse kantud",
@@ -1169,6 +1337,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 167,
     "company": "1Investmets-C UÜ",
     "code": 14119443,
     "active": "Registrisse kantud",
@@ -1176,6 +1345,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 168,
     "company": "1Investmets OÜ",
     "code": 12534623,
     "active": "Registrisse kantud",
@@ -1183,6 +1353,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 169,
     "company": "1iOpen OÜ",
     "code": 14470726,
     "active": "Registrisse kantud",
@@ -1190,6 +1361,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 170,
     "company": "1it OÜ",
     "code": 12895634,
     "active": "Registrisse kantud",
@@ -1197,6 +1369,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 171,
     "company": "1JetiFoods OÜ",
     "code": 14813675,
     "active": "Registrisse kantud",
@@ -1204,6 +1377,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 172,
     "company": "1Joule OÜ",
     "code": 14743928,
     "active": "Registrisse kantud",
@@ -1211,6 +1385,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 173,
     "company": "1Kahest Grupp OÜ",
     "code": 12653061,
     "active": "Registrisse kantud",
@@ -1218,6 +1393,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 174,
     "company": "1Kapp OÜ",
     "code": 14431560,
     "active": "Registrisse kantud",
@@ -1225,6 +1401,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 175,
     "company": "1Karving Stuudio OÜ",
     "code": 12521721,
     "active": "Registrisse kantud",
@@ -1232,6 +1409,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 176,
     "company": "1Kaubandus OÜ",
     "code": 14002238,
     "active": "Registrisse kantud",
@@ -1239,6 +1417,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 177,
     "company": "1k-digital.com OÜ",
     "code": 10678111,
     "active": "Registrisse kantud",
@@ -1246,6 +1425,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 178,
     "company": "1kilo OÜ",
     "code": 14164299,
     "active": "Registrisse kantud",
@@ -1253,6 +1433,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 179,
     "company": "1 Kindlustusmaakler OÜ",
     "code": 12768350,
     "active": "Registrisse kantud",
@@ -1260,6 +1441,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 180,
     "company": "1 Kinnisvaraarendaja OÜ",
     "code": 12470461,
     "active": "Registrisse kantud",
@@ -1267,6 +1449,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 181,
     "company": "1KLIKK OÜ",
     "code": 12695007,
     "active": "Registrisse kantud",
@@ -1274,6 +1457,7 @@
     "city": "Kiili vald"
   },
   {
+    "id": 182,
     "company": "1Kodu Kinnisvara OÜ",
     "code": 11144357,
     "active": "Registrisse kantud",
@@ -1281,6 +1465,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 183,
     "company": "1Kodu OÜ",
     "code": 14419990,
     "active": "Registrisse kantud",
@@ -1288,6 +1473,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 184,
     "company": "1Konsult OÜ",
     "code": 11475172,
     "active": "Registrisse kantud",
@@ -1295,6 +1481,7 @@
     "city": "Rõuge vald"
   },
   {
+    "id": 185,
     "company": "1-koolitus MTÜ",
     "code": 80562002,
     "active": "Registrisse kantud",
@@ -1302,6 +1489,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 186,
     "company": "1kopikas OÜ",
     "code": 14734496,
     "active": "Registrisse kantud",
@@ -1309,6 +1497,7 @@
     "city": "Pärnu linn"
   },
   {
+    "id": 187,
     "company": "1korda1 OÜ",
     "code": 11975756,
     "active": "Likvideerimisel",
@@ -1316,6 +1505,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 188,
     "company": "1KORISTUS OÜ",
     "code": 14469462,
     "active": "Registrisse kantud",
@@ -1323,6 +1513,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 189,
     "company": "1Korsten OÜ",
     "code": 12356400,
     "active": "Registrisse kantud",
@@ -1330,6 +1521,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 190,
     "company": "1Korstnapühkija ja Pottsepp OÜ",
     "code": 12143331,
     "active": "Registrisse kantud",
@@ -1337,6 +1529,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 191,
     "company": "1KPD Consult OÜ",
     "code": 14056046,
     "active": "Registrisse kantud",
@@ -1344,6 +1537,7 @@
     "city": "Järva vald"
   },
   {
+    "id": 192,
     "company": "1kpd OÜ",
     "code": 12988620,
     "active": "Registrisse kantud",
@@ -1351,6 +1545,7 @@
     "city": "Järva vald"
   },
   {
+    "id": 193,
     "company": "1kx Network OÜ",
     "code": 14539783,
     "active": "Registrisse kantud",
@@ -1358,6 +1553,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 194,
     "company": "1Maaler Ehitus OÜ",
     "code": 14578286,
     "active": "Registrisse kantud",
@@ -1365,6 +1561,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 195,
     "company": "1Maaler OÜ",
     "code": 14134336,
     "active": "Registrisse kantud",
@@ -1372,6 +1569,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 196,
     "company": "1man OÜ",
     "code": 14620901,
     "active": "Registrisse kantud",
@@ -1379,6 +1577,7 @@
     "city": "Saku vald"
   },
   {
+    "id": 197,
     "company": "1Market OÜ",
     "code": 12454226,
     "active": "Registrisse kantud",
@@ -1386,6 +1585,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 198,
     "company": "1master solutions OÜ",
     "code": 14656454,
     "active": "Registrisse kantud",
@@ -1393,6 +1593,7 @@
     "city": "Kuusalu vald"
   },
   {
+    "id": 199,
     "company": "1 Mb OÜ",
     "code": 11513352,
     "active": "Registrisse kantud",
@@ -1400,6 +1601,7 @@
     "city": "Viimsi vald"
   },
   {
+    "id": 200,
     "company": "1millionapps OÜ",
     "code": 14817331,
     "active": "Registrisse kantud",
@@ -1407,6 +1609,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 201,
     "company": "1minute UÜ",
     "code": 14922269,
     "active": "Registrisse kantud",
@@ -1414,6 +1617,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 202,
     "company": "1MLR OÜ",
     "code": 12623060,
     "active": "Registrisse kantud",
@@ -1421,6 +1625,7 @@
     "city": "Viimsi vald"
   },
   {
+    "id": 203,
     "company": "1MW OÜ",
     "code": 14153523,
     "active": "Registrisse kantud",
@@ -1428,6 +1633,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 204,
     "company": "1NET.EE OÜ",
     "code": 14906922,
     "active": "Registrisse kantud",
@@ -1435,6 +1641,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 205,
     "company": "1Office Estonia OÜ",
     "code": 11528017,
     "active": "Registrisse kantud",
@@ -1442,6 +1649,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 206,
     "company": "1Office Global OÜ",
     "code": 14207868,
     "active": "Registrisse kantud",
@@ -1449,6 +1657,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 207,
     "company": "1Office Group OÜ",
     "code": 12133700,
     "active": "Registrisse kantud",
@@ -1456,6 +1665,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 208,
     "company": "1Office OÜ",
     "code": 12310390,
     "active": "Registrisse kantud",
@@ -1463,6 +1673,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 209,
     "company": "1one.eu OÜ",
     "code": 14728372,
     "active": "Registrisse kantud",
@@ -1470,6 +1681,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 210,
     "company": "1oT OÜ",
     "code": 14611026,
     "active": "Registrisse kantud",
@@ -1477,6 +1689,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 211,
     "company": "1Paigaldus OÜ",
     "code": 14746884,
     "active": "Registrisse kantud",
@@ -1484,6 +1697,7 @@
     "city": "Rae vald"
   },
   {
+    "id": 212,
     "company": "1P Arendusjuhtimise OÜ",
     "code": 12819136,
     "active": "Registrisse kantud",
@@ -1491,6 +1705,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 213,
     "company": "1Partner Advisory OÜ",
     "code": 11769057,
     "active": "Registrisse kantud",
@@ -1498,6 +1713,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 214,
     "company": "1PARTNER Ehitus OÜ",
     "code": 11226150,
     "active": "Registrisse kantud",
@@ -1505,6 +1721,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 215,
     "company": "1Partner Haldus OÜ",
     "code": 14044863,
     "active": "Registrisse kantud",
@@ -1512,6 +1729,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 216,
     "company": "1PARTNER Kinnisvara Eesti OÜ",
     "code": 11027723,
     "active": "Registrisse kantud",
@@ -1519,6 +1737,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 217,
     "company": "1PARTNER Kinnisvaragrupp Osaühing",
     "code": 11015625,
     "active": "Registrisse kantud",
@@ -1526,6 +1745,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 218,
     "company": "1PARTNER Kinnisvara Tallinn OÜ",
     "code": 11036461,
     "active": "Registrisse kantud",
@@ -1533,6 +1753,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 219,
     "company": "1PARTNER Kommertskinnisvara OÜ",
     "code": 12138519,
     "active": "Registrisse kantud",
@@ -1540,6 +1761,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 220,
     "company": "1Partner Seven Kinnisvarakonsultandid OÜ",
     "code": 10394023,
     "active": "Registrisse kantud",
@@ -1547,6 +1769,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 221,
     "company": "1Personal OÜ",
     "code": 14076292,
     "active": "Registrisse kantud",
@@ -1554,6 +1777,7 @@
     "city": ""
   },
   {
+    "id": 222,
     "company": "1pintsel OÜ",
     "code": 14903154,
     "active": "Registrisse kantud",
@@ -1561,6 +1785,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 223,
     "company": "1P Kinnisvara Tartu OÜ",
     "code": 12273759,
     "active": "Registrisse kantud",
@@ -1568,6 +1793,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 224,
     "company": "1pood.com OÜ",
     "code": 11471168,
     "active": "Registrisse kantud",
@@ -1575,6 +1801,7 @@
     "city": "Saue vald"
   },
   {
+    "id": 225,
     "company": "1Print OÜ",
     "code": 12862630,
     "active": "Registrisse kantud",
@@ -1582,6 +1809,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 226,
     "company": "1-Print Security OÜ",
     "code": 12357486,
     "active": "Registrisse kantud",
@@ -1589,6 +1817,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 227,
     "company": "1 Projekt OÜ",
     "code": 11199750,
     "active": "Registrisse kantud",
@@ -1596,6 +1825,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 228,
     "company": "1PT Grupp Osaühing",
     "code": 11481296,
     "active": "Registrisse kantud",
@@ -1603,6 +1833,7 @@
     "city": "Ida-Viru maakond"
   },
   {
+    "id": 229,
     "company": "1Puksiir OÜ",
     "code": 12702397,
     "active": "Registrisse kantud",
@@ -1610,6 +1841,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 230,
     "company": "1Päev Catering OÜ",
     "code": 12483268,
     "active": "Registrisse kantud",
@@ -1617,6 +1849,7 @@
     "city": "Saue vald"
   },
   {
+    "id": 231,
     "company": "1Päev OÜ",
     "code": 11579411,
     "active": "Registrisse kantud",
@@ -1624,6 +1857,7 @@
     "city": "Saue vald"
   },
   {
+    "id": 232,
     "company": "1QA OSAÜHING",
     "code": 10614594,
     "active": "Registrisse kantud",
@@ -1631,6 +1865,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 233,
     "company": "1Raamatupidamine OÜ",
     "code": 11711922,
     "active": "Registrisse kantud",
@@ -1638,6 +1873,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 234,
     "company": "1Raid OÜ",
     "code": 12320626,
     "active": "Registrisse kantud",
@@ -1645,6 +1881,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 235,
     "company": "1Reisid OÜ",
     "code": 12605263,
     "active": "Registrisse kantud",
@@ -1652,6 +1889,7 @@
     "city": "Kiili vald"
   },
   {
+    "id": 236,
     "company": "1 Rental OÜ",
     "code": 14388485,
     "active": "Registrisse kantud",
@@ -1659,6 +1897,7 @@
     "city": "Viljandi vald"
   },
   {
+    "id": 237,
     "company": "1secondhand OÜ",
     "code": 14211321,
     "active": "Registrisse kantud",
@@ -1666,6 +1905,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 238,
     "company": "1SmartHome Kinnisvarabüroo OÜ",
     "code": 14642340,
     "active": "Registrisse kantud",
@@ -1673,6 +1913,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 239,
     "company": "1Sofa OÜ",
     "code": 12013918,
     "active": "Registrisse kantud",
@@ -1680,6 +1921,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 240,
     "company": "1Solution OÜ",
     "code": 14502320,
     "active": "Registrisse kantud",
@@ -1687,6 +1929,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 241,
     "company": "1Star Kinnisvara OÜ",
     "code": 12184962,
     "active": "Registrisse kantud",
@@ -1694,6 +1937,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 242,
     "company": "1st Connect Energy Services OÜ",
     "code": 14698872,
     "active": "Registrisse kantud",
@@ -1701,6 +1945,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 243,
     "company": "1st Finants OÜ",
     "code": 12116825,
     "active": "Registrisse kantud",
@@ -1708,6 +1953,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 244,
     "company": "1st Investments OÜ",
     "code": 14787966,
     "active": "Registrisse kantud",
@@ -1715,6 +1961,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 245,
     "company": "1st Momentum OÜ",
     "code": 14216212,
     "active": "Likvideerimisel",
@@ -1722,6 +1969,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 246,
     "company": "1st One OÜ",
     "code": 14745086,
     "active": "Registrisse kantud",
@@ -1729,6 +1977,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 247,
     "company": "1Stop FB OÜ",
     "code": 14413119,
     "active": "Registrisse kantud",
@@ -1736,6 +1985,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 248,
     "company": "1Stop Group OÜ",
     "code": 11344599,
     "active": "Registrisse kantud",
@@ -1743,6 +1993,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 249,
     "company": "1stQuest OÜ",
     "code": 14393233,
     "active": "Registrisse kantud",
@@ -1750,6 +2001,7 @@
     "city": "Kuusalu vald"
   },
   {
+    "id": 250,
     "company": "1StTech OÜ",
     "code": 11760748,
     "active": "Registrisse kantud",
@@ -1757,6 +2009,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 251,
     "company": "1studio OÜ",
     "code": 12920467,
     "active": "Registrisse kantud",
@@ -1764,6 +2017,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 252,
     "company": "1STX OÜ",
     "code": 14648414,
     "active": "Registrisse kantud",
@@ -1771,6 +2025,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 253,
     "company": "1Z1oneZone OÜ",
     "code": 14541596,
     "active": "Registrisse kantud",
@@ -1778,6 +2033,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 254,
     "company": "1 Zulf OÜ",
     "code": 14438912,
     "active": "Registrisse kantud",
@@ -1785,6 +2041,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 255,
     "company": "1Tagatis OÜ",
     "code": 12363624,
     "active": "Registrisse kantud",
@@ -1792,6 +2049,7 @@
     "city": "Kambja vald"
   },
   {
+    "id": 256,
     "company": "1Taks OÜ",
     "code": 14264760,
     "active": "Registrisse kantud",
@@ -1799,6 +2057,7 @@
     "city": "Haljala vald"
   },
   {
+    "id": 257,
     "company": "1Team OÜ",
     "code": 14468497,
     "active": "Registrisse kantud",
@@ -1806,6 +2065,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 258,
     "company": "1Teater Mittetulundusühing",
     "code": 80322841,
     "active": "Registrisse kantud",
@@ -1813,6 +2073,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 259,
     "company": "1Teenus OÜ",
     "code": 12066582,
     "active": "Registrisse kantud",
@@ -1820,6 +2081,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 260,
     "company": "1Tomato OÜ",
     "code": 12532386,
     "active": "Pankrotis",
@@ -1827,6 +2089,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 261,
     "company": "1top1 OÜ",
     "code": 12942210,
     "active": "Registrisse kantud",
@@ -1834,6 +2097,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 262,
     "company": "1Tower Group OÜ",
     "code": 12795571,
     "active": "Registrisse kantud",
@@ -1841,6 +2105,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 263,
     "company": "1Track OÜ",
     "code": 14600212,
     "active": "Registrisse kantud",
@@ -1848,6 +2113,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 264,
     "company": "1Trader OÜ",
     "code": 11660573,
     "active": "Registrisse kantud",
@@ -1855,6 +2121,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 265,
     "company": "1 Turundusbüroo OÜ",
     "code": 12810715,
     "active": "Registrisse kantud",
@@ -1862,6 +2129,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 266,
     "company": "1U4 OÜ",
     "code": 14417330,
     "active": "Registrisse kantud",
@@ -1869,6 +2137,7 @@
     "city": "Rapla vald"
   },
   {
+    "id": 267,
     "company": "1 UKS OÜ",
     "code": 12555051,
     "active": "Registrisse kantud",
@@ -1876,6 +2145,7 @@
     "city": "Viimsi vald"
   },
   {
+    "id": 268,
     "company": "1UL Teenused OÜ",
     "code": 14501600,
     "active": "Registrisse kantud",
@@ -1883,6 +2153,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 269,
     "company": "1Valve Partner OÜ",
     "code": 14664726,
     "active": "Registrisse kantud",
@@ -1890,6 +2161,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 270,
     "company": "1WON Technology OÜ",
     "code": 14805308,
     "active": "Registrisse kantud",
@@ -1897,6 +2169,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 271,
     "company": "1Väekasmari OÜ",
     "code": 14728573,
     "active": "Registrisse kantud",
@@ -1904,6 +2177,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 272,
     "company": "1x3 OÜ",
     "code": 14926480,
     "active": "Registrisse kantud",
@@ -1911,6 +2185,7 @@
     "city": "Pärnu linn"
   },
   {
+    "id": 273,
     "company": "1X OÜ",
     "code": 14613545,
     "active": "Registrisse kantud",
@@ -1918,6 +2193,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 274,
     "company": "2007 OÜ",
     "code": 14830277,
     "active": "Registrisse kantud",
@@ -1925,6 +2201,7 @@
     "city": "Kambja vald"
   },
   {
+    "id": 275,
     "company": "200 kraadi OÜ",
     "code": 14155887,
     "active": "Registrisse kantud",
@@ -1932,6 +2209,7 @@
     "city": "Viimsi vald"
   },
   {
+    "id": 276,
     "company": "200OK OÜ",
     "code": 14555575,
     "active": "Registrisse kantud",
@@ -1939,6 +2217,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 277,
     "company": "2014Kompa OÜ",
     "code": 12759954,
     "active": "Registrisse kantud",
@@ -1946,6 +2225,7 @@
     "city": "Kohtla-Järve linn"
   },
   {
+    "id": 278,
     "company": "2016 Arenduse UÜ",
     "code": 14164805,
     "active": "Registrisse kantud",
@@ -1953,6 +2233,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 279,
     "company": "2016-Finants UÜ",
     "code": 14167347,
     "active": "Registrisse kantud",
@@ -1960,6 +2241,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 280,
     "company": "2016-Halduse UÜ",
     "code": 14166744,
     "active": "Registrisse kantud",
@@ -1967,6 +2249,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 281,
     "company": "2016-Hooldus UÜ",
     "code": 14166690,
     "active": "Registrisse kantud",
@@ -1974,6 +2257,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 282,
     "company": "2016 Investeeringud Grupp UÜ",
     "code": 14171633,
     "active": "Registrisse kantud",
@@ -1981,6 +2265,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 283,
     "company": "2016-Rent UÜ",
     "code": 14166980,
     "active": "Registrisse kantud",
@@ -1988,6 +2273,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 284,
     "company": "2016 Spetsialist UÜ",
     "code": 14164188,
     "active": "Registrisse kantud",
@@ -1995,6 +2281,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 285,
     "company": "2016-Teeninduse UÜ",
     "code": 14166827,
     "active": "Registrisse kantud",
@@ -2002,6 +2289,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 286,
     "company": "2016-Ürituste UÜ",
     "code": 14167092,
     "active": "Registrisse kantud",
@@ -2009,6 +2297,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 287,
     "company": "2019 Holdings OÜ",
     "code": 14647107,
     "active": "Registrisse kantud",
@@ -2016,6 +2305,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 288,
     "company": "20:20 Ideas Osaühing",
     "code": 11055398,
     "active": "Registrisse kantud",
@@ -2023,6 +2313,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 289,
     "company": "2020TRADING OÜ",
     "code": 14361167,
     "active": "Registrisse kantud",
@@ -2030,6 +2321,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 290,
     "company": "20. Eesti Relvagrenaderide Diviisi Veteranide Ühendus",
     "code": 80127708,
     "active": "Registrisse kantud",
@@ -2037,6 +2329,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 291,
     "company": "2.0 OÜ",
     "code": 12963608,
     "active": "Registrisse kantud",
@@ -2044,6 +2337,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 292,
     "company": "20Tau Systems OÜ",
     "code": 14237929,
     "active": "Registrisse kantud",
@@ -2051,6 +2345,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 293,
     "company": "20 Thousand Leagues OÜ",
     "code": 14551382,
     "active": "Registrisse kantud",
@@ -2058,6 +2353,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 294,
     "company": "2100 Technologies OÜ",
     "code": 14675003,
     "active": "Registrisse kantud",
@@ -2065,6 +2361,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 295,
     "company": "212rent OÜ",
     "code": 14646480,
     "active": "Registrisse kantud",
@@ -2072,6 +2369,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 296,
     "company": "21kollektiv OÜ",
     "code": 14590654,
     "active": "Registrisse kantud",
@@ -2079,6 +2377,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 297,
     "company": "21Pluss OÜ",
     "code": 12752878,
     "active": "Registrisse kantud",
@@ -2086,6 +2385,7 @@
     "city": "Saaremaa vald"
   },
   {
+    "id": 298,
     "company": "21 Promotion OÜ",
     "code": 14683407,
     "active": "Registrisse kantud",
@@ -2093,6 +2393,7 @@
     "city": "Paide linn"
   },
   {
+    "id": 299,
     "company": "21 Robots OÜ",
     "code": 14521671,
     "active": "Registrisse kantud",
@@ -2100,6 +2401,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 300,
     "company": "21st Century Law Productions OÜ",
     "code": 14637327,
     "active": "Registrisse kantud",
@@ -2107,6 +2409,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 301,
     "company": "21st GM Osaühing",
     "code": 12017649,
     "active": "Registrisse kantud",
@@ -2114,6 +2417,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 302,
     "company": "21stSense OÜ",
     "code": 14698599,
     "active": "Registrisse kantud",
@@ -2121,6 +2425,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 303,
     "company": "21times2 OÜ",
     "code": 14709311,
     "active": "Registrisse kantud",
@@ -2128,6 +2433,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 304,
     "company": "21Xchange OÜ",
     "code": 14617017,
     "active": "Registrisse kantud",
@@ -2135,6 +2441,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 305,
     "company": "220 Energia OÜ",
     "code": 12271081,
     "active": "Registrisse kantud",
@@ -2142,6 +2449,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 306,
     "company": "220 Solar OÜ",
     "code": 14040405,
     "active": "Registrisse kantud",
@@ -2149,6 +2457,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 307,
     "company": "22d OÜ",
     "code": 14743839,
     "active": "Registrisse kantud",
@@ -2156,6 +2465,7 @@
     "city": ""
   },
   {
+    "id": 308,
     "company": "22Games OÜ",
     "code": 14308581,
     "active": "Registrisse kantud",
@@ -2163,6 +2473,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 309,
     "company": "22 HAIR STUDIO OÜ",
     "code": 12679681,
     "active": "Registrisse kantud",
@@ -2170,6 +2481,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 310,
     "company": "22ndcompany OÜ",
     "code": 12721503,
     "active": "Registrisse kantud",
@@ -2177,6 +2489,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 311,
     "company": "22resto OÜ",
     "code": 14177417,
     "active": "Registrisse kantud",
@@ -2184,6 +2497,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 312,
     "company": "22 Systems OÜ",
     "code": 14319917,
     "active": "Registrisse kantud",
@@ -2191,6 +2505,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 313,
     "company": "233 Tech OÜ",
     "code": 14926215,
     "active": "Registrisse kantud",
@@ -2198,6 +2513,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 314,
     "company": "235CCC OÜ",
     "code": 14452740,
     "active": "Registrisse kantud",
@@ -2205,6 +2521,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 315,
     "company": "239 Consulting OÜ",
     "code": 14593386,
     "active": "Registrisse kantud",
@@ -2212,6 +2529,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 316,
     "company": "23 Degrees OÜ",
     "code": 14540823,
     "active": "Registrisse kantud",
@@ -2219,6 +2537,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 317,
     "company": "24/7/365 Finance UÜ",
     "code": 14168464,
     "active": "Registrisse kantud",
@@ -2226,6 +2545,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 318,
     "company": "24/7 Avariitööd UÜ",
     "code": 14769359,
     "active": "Registrisse kantud",
@@ -2233,6 +2553,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 319,
     "company": "24-7FITNESSKLUBI OÜ",
     "code": 14045006,
     "active": "Registrisse kantud",
@@ -2240,6 +2561,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 320,
     "company": "24-7 Fitness OÜ",
     "code": 12875689,
     "active": "Registrisse kantud",
@@ -2247,6 +2569,7 @@
     "city": "Türi vald"
   },
   {
+    "id": 321,
     "company": "24/7 Halduse UÜ",
     "code": 14168619,
     "active": "Registrisse kantud",
@@ -2254,6 +2577,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 322,
     "company": "24/7 Hooldus OÜ",
     "code": 14168499,
     "active": "Registrisse kantud",
@@ -2261,6 +2585,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 323,
     "company": "24/7 Investeeringud UÜ",
     "code": 14167034,
     "active": "Registrisse kantud",
@@ -2268,6 +2593,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 324,
     "company": "24/7 Logistics OÜ",
     "code": 14806830,
     "active": "Registrisse kantud",
@@ -2275,6 +2601,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 325,
     "company": "24/7 Office OÜ",
     "code": 12807363,
     "active": "Registrisse kantud",
@@ -2282,6 +2609,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 326,
     "company": "24/7 Rent OÜ",
     "code": 14168559,
     "active": "Registrisse kantud",
@@ -2289,6 +2617,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 327,
     "company": "247 Solutions Company OÜ",
     "code": 12782054,
     "active": "Registrisse kantud",
@@ -2296,6 +2625,7 @@
     "city": "Harju maakond"
   },
   {
+    "id": 328,
     "company": "248 arhitektuur OÜ",
     "code": 14532835,
     "active": "Registrisse kantud",
@@ -2303,6 +2633,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 329,
     "company": "24direct OÜ",
     "code": 11451349,
     "active": "Registrisse kantud",
@@ -2310,6 +2641,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 330,
     "company": "24EE OÜ",
     "code": 14704147,
     "active": "Registrisse kantud",
@@ -2317,6 +2649,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 331,
     "company": "24express OÜ",
     "code": 12392815,
     "active": "Registrisse kantud",
@@ -2324,6 +2657,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 332,
     "company": "24Express Transport & Logistics OÜ",
     "code": 14808533,
     "active": "Registrisse kantud",
@@ -2331,6 +2665,7 @@
     "city": "Türi vald"
   },
   {
+    "id": 333,
     "company": "24h Ehitaja OÜ",
     "code": 14168772,
     "active": "Registrisse kantud",
@@ -2338,6 +2673,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 334,
     "company": "24h IT Help OÜ",
     "code": 11889040,
     "active": "Registrisse kantud",
@@ -2345,6 +2681,7 @@
     "city": "Valga vald"
   },
   {
+    "id": 335,
     "company": "24 Holding OÜ",
     "code": 11170403,
     "active": "Registrisse kantud",
@@ -2352,6 +2689,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 336,
     "company": "24 Hour OÜ",
     "code": 12398893,
     "active": "Registrisse kantud",
@@ -2359,6 +2697,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 337,
     "company": "24H Production OÜ",
     "code": 14138363,
     "active": "Registrisse kantud",
@@ -2366,6 +2705,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 338,
     "company": "24K CORPORATION OÜ",
     "code": 14776618,
     "active": "Registrisse kantud",
@@ -2373,6 +2713,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 339,
     "company": "24Plus OÜ",
     "code": 14831392,
     "active": "Registrisse kantud",
@@ -2380,6 +2721,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 340,
     "company": "24seven Consult OÜ",
     "code": 11787405,
     "active": "Registrisse kantud",
@@ -2387,6 +2729,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 341,
     "company": "24seven OÜ",
     "code": 12281139,
     "active": "Registrisse kantud",
@@ -2394,6 +2737,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 342,
     "company": "24 tundi Osaühing",
     "code": 10509822,
     "active": "Registrisse kantud",
@@ -2401,6 +2745,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 343,
     "company": "256 OÜ",
     "code": 12503686,
     "active": "Registrisse kantud",
@@ -2408,6 +2753,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 344,
     "company": "258 Holdings OÜ",
     "code": 14265110,
     "active": "Registrisse kantud",
@@ -2415,6 +2761,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 345,
     "company": "25 Carat OÜ",
     "code": 12949784,
     "active": "Registrisse kantud",
@@ -2422,6 +2769,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 346,
     "company": "25 HOURS PRODUCTION OÜ",
     "code": 14655437,
     "active": "Likvideerimisel",
@@ -2429,6 +2777,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 347,
     "company": "25 Kaadrit OÜ",
     "code": 12664834,
     "active": "Registrisse kantud",
@@ -2436,6 +2785,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 348,
     "company": "#265 ENERGYUNIT OÜ",
     "code": 14128471,
     "active": "Registrisse kantud",
@@ -2443,6 +2793,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 349,
     "company": "275 SPORTLAB OÜ",
     "code": 14467470,
     "active": "Registrisse kantud",
@@ -2450,6 +2801,7 @@
     "city": "Viimsi vald"
   },
   {
+    "id": 350,
     "company": "27 Rabbits OÜ",
     "code": 14085483,
     "active": "Registrisse kantud",
@@ -2457,6 +2809,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 351,
     "company": "285 South West OÜ",
     "code": 14817986,
     "active": "Registrisse kantud",
@@ -2464,6 +2817,7 @@
     "city": ""
   },
   {
+    "id": 352,
     "company": "28 Betoon OÜ",
     "code": 12251115,
     "active": "Registrisse kantud",
@@ -2471,6 +2825,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 353,
     "company": "28 Drinks Eesti OÜ",
     "code": 14645769,
     "active": "Registrisse kantud",
@@ -2478,6 +2833,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 354,
     "company": "28 Style Ilustuudio OÜ",
     "code": 14688299,
     "active": "Registrisse kantud",
@@ -2485,6 +2841,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 355,
     "company": "2A element OÜ",
     "code": 14112843,
     "active": "Registrisse kantud",
@@ -2492,6 +2849,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 356,
     "company": "2 Ahju OÜ",
     "code": 12600509,
     "active": "Registrisse kantud",
@@ -2499,6 +2857,7 @@
     "city": "Kastre vald"
   },
   {
+    "id": 357,
     "company": "2A Motors OÜ",
     "code": 14332220,
     "active": "Registrisse kantud",
@@ -2506,6 +2865,7 @@
     "city": "Viljandi vald"
   },
   {
+    "id": 358,
     "company": "2A-Projekt OÜ",
     "code": 12528597,
     "active": "Registrisse kantud",
@@ -2513,6 +2873,7 @@
     "city": "Raasiku vald"
   },
   {
+    "id": 359,
     "company": "2A Rakkennus OÜ",
     "code": 12947590,
     "active": "Registrisse kantud",
@@ -2520,6 +2881,7 @@
     "city": "Saaremaa vald"
   },
   {
+    "id": 360,
     "company": "2BA Freight OÜ",
     "code": 14261553,
     "active": "Registrisse kantud",
@@ -2527,6 +2889,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 361,
     "company": "2Beat WM OÜ",
     "code": 14692668,
     "active": "Registrisse kantud",
@@ -2534,6 +2897,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 362,
     "company": "2BE Consult OÜ",
     "code": 12830480,
     "active": "Registrisse kantud",
@@ -2541,6 +2905,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 363,
     "company": "2BHOLDING OÜ",
     "code": 14527113,
     "active": "Registrisse kantud",
@@ -2548,6 +2913,7 @@
     "city": "Kuusalu vald"
   },
   {
+    "id": 364,
     "company": "2 Brothers OÜ",
     "code": 14066008,
     "active": "Registrisse kantud",
@@ -2555,6 +2921,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 365,
     "company": "2Build OÜ",
     "code": 14713011,
     "active": "Registrisse kantud",
@@ -2562,6 +2929,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 366,
     "company": "2 CGG OÜ",
     "code": 14444976,
     "active": "Registrisse kantud",
@@ -2569,6 +2937,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 367,
     "company": "2Consult OÜ",
     "code": 12125451,
     "active": "Registrisse kantud",
@@ -2576,6 +2945,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 368,
     "company": "2D6 OÜ",
     "code": 12258755,
     "active": "Registrisse kantud",
@@ -2583,6 +2953,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 369,
     "company": "2Deal Group OÜ",
     "code": 14463809,
     "active": "Registrisse kantud",
@@ -2590,6 +2961,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 370,
     "company": "2D GROUP OÜ",
     "code": 14577418,
     "active": "Registrisse kantud",
@@ -2597,6 +2969,7 @@
     "city": "Kohtla-Järve linn"
   },
   {
+    "id": 371,
     "company": "2D Kindlustusabi Grupp Täisühing",
     "code": 11380448,
     "active": "Registrisse kantud",
@@ -2604,6 +2977,7 @@
     "city": "Ida-Viru maakond"
   },
   {
+    "id": 372,
     "company": "2D Kindlustusmaakler Osaühing",
     "code": 11522534,
     "active": "Pankrotis",
@@ -2611,6 +2985,7 @@
     "city": "Ida-Viru maakond"
   },
   {
+    "id": 373,
     "company": "2D Kindlustusteenused TÜ",
     "code": 11434598,
     "active": "Registrisse kantud",
@@ -2618,6 +2993,7 @@
     "city": "Ida-Viru maakond"
   },
   {
+    "id": 374,
     "company": "2D kindlustusvahenduse büroo TÜ",
     "code": 11481669,
     "active": "Likvideerimisel",
@@ -2625,6 +3001,7 @@
     "city": "Ida-Viru maakond"
   },
   {
+    "id": 375,
     "company": "2D Kindlustusvahenduse TÜ",
     "code": 11380336,
     "active": "Registrisse kantud",
@@ -2632,6 +3009,7 @@
     "city": "Ida-Viru maakond"
   },
   {
+    "id": 376,
     "company": "2dot media OÜ",
     "code": 14739526,
     "active": "Registrisse kantud",
@@ -2639,6 +3017,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 377,
     "company": "2Dots OÜ",
     "code": 12265436,
     "active": "Registrisse kantud",
@@ -2646,6 +3025,7 @@
     "city": "Pärnu linn"
   },
   {
+    "id": 378,
     "company": "2D Puhastus OÜ",
     "code": 14358225,
     "active": "Registrisse kantud",
@@ -2653,6 +3033,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 379,
     "company": "2eurocoins OÜ",
     "code": 14431873,
     "active": "Registrisse kantud",
@@ -2660,6 +3041,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 380,
     "company": "2 Euro OÜ",
     "code": 12108091,
     "active": "Registrisse kantud",
@@ -2667,6 +3049,7 @@
     "city": "Ida-Viru maakond"
   },
   {
+    "id": 381,
     "company": "2FA BUILDING OÜ",
     "code": 14511052,
     "active": "Registrisse kantud",
@@ -2674,6 +3057,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 382,
     "company": "2Factor OÜ",
     "code": 14651706,
     "active": "Registrisse kantud",
@@ -2681,6 +3065,7 @@
     "city": "Viimsi vald"
   },
   {
+    "id": 383,
     "company": "2FELICE OÜ",
     "code": 12009383,
     "active": "Registrisse kantud",
@@ -2688,6 +3073,7 @@
     "city": "Harju maakond"
   },
   {
+    "id": 384,
     "company": "2F Rent OÜ",
     "code": 14632117,
     "active": "Registrisse kantud",
@@ -2695,6 +3081,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 385,
     "company": "2 G Baltic Company OÜ",
     "code": 10914913,
     "active": "Registrisse kantud",
@@ -2702,6 +3089,7 @@
     "city": "Kambja vald"
   },
   {
+    "id": 386,
     "company": "2Geckos OÜ",
     "code": 14728001,
     "active": "Registrisse kantud",
@@ -2709,6 +3097,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 387,
     "company": "2G Marketing OÜ",
     "code": 14251510,
     "active": "Registrisse kantud",
@@ -2716,6 +3105,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 388,
     "company": "2GO Invest OÜ",
     "code": 14137961,
     "active": "Registrisse kantud",
@@ -2723,6 +3113,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 389,
     "company": "2GO OÜ",
     "code": 11893314,
     "active": "Registrisse kantud",
@@ -2730,6 +3121,7 @@
     "city": "Viimsi vald"
   },
   {
+    "id": 390,
     "company": "2HK OÜ",
     "code": 14398650,
     "active": "Registrisse kantud",
@@ -2737,6 +3129,7 @@
     "city": "Tõrva vald"
   },
   {
+    "id": 391,
     "company": "2Intelligent Media Osaühing",
     "code": 11748954,
     "active": "Registrisse kantud",
@@ -2744,6 +3137,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 392,
     "company": "2 IT Now! OÜ",
     "code": 12986578,
     "active": "Registrisse kantud",
@@ -2751,6 +3145,7 @@
     "city": "Saaremaa vald"
   },
   {
+    "id": 393,
     "company": "2 Karu OÜ",
     "code": 12991898,
     "active": "Registrisse kantud",
@@ -2758,6 +3153,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 394,
     "company": "2K Capital OÜ",
     "code": 14929662,
     "active": "Registrisse kantud",
@@ -2765,6 +3161,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 395,
     "company": "2KDent OÜ",
     "code": 14929389,
     "active": "Registrisse kantud",
@@ -2772,6 +3169,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 396,
     "company": "2K Ehitus OÜ",
     "code": 14678763,
     "active": "Registrisse kantud",
@@ -2779,6 +3177,7 @@
     "city": "Kambja vald"
   },
   {
+    "id": 397,
     "company": "2K Entertainment Agency OÜ",
     "code": 14887751,
     "active": "Registrisse kantud",
@@ -2786,6 +3185,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 398,
     "company": "2K Füsioteraapia OÜ",
     "code": 12377626,
     "active": "Registrisse kantud",
@@ -2793,6 +3193,7 @@
     "city": "Viimsi vald"
   },
   {
+    "id": 399,
     "company": "2K Group OÜ",
     "code": 14128560,
     "active": "Registrisse kantud",
@@ -2800,6 +3201,7 @@
     "city": "Viimsi vald"
   },
   {
+    "id": 400,
     "company": "2K Insener OÜ",
     "code": 12883803,
     "active": "Registrisse kantud",
@@ -2807,6 +3209,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 401,
     "company": "2K Lahendused OÜ",
     "code": 11747630,
     "active": "Registrisse kantud",
@@ -2814,6 +3217,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 402,
     "company": "2K Logistika OÜ",
     "code": 11945985,
     "active": "Registrisse kantud",
@@ -2821,6 +3225,7 @@
     "city": "Anija vald"
   },
   {
+    "id": 403,
     "company": "2Korrus OÜ",
     "code": 11661130,
     "active": "Registrisse kantud",
@@ -2828,6 +3233,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 404,
     "company": "2K OÜ",
     "code": 14524445,
     "active": "Registrisse kantud",
@@ -2835,6 +3241,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 405,
     "company": "2K Services OÜ",
     "code": 12810017,
     "active": "Registrisse kantud",
@@ -2842,6 +3249,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 406,
     "company": "2KSoft OÜ",
     "code": 11481497,
     "active": "Registrisse kantud",
@@ -2849,6 +3257,7 @@
     "city": "Tapa vald"
   },
   {
+    "id": 407,
     "company": "2KV OÜ",
     "code": 14364674,
     "active": "Registrisse kantud",
@@ -2856,6 +3265,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 408,
     "company": "2 küpsist OÜ",
     "code": 14726157,
     "active": "Registrisse kantud",
@@ -2863,6 +3273,7 @@
     "city": "Hiiumaa vald"
   },
   {
+    "id": 409,
     "company": "2LSG OÜ",
     "code": 14211930,
     "active": "Registrisse kantud",
@@ -2870,6 +3281,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 410,
     "company": "2Lumak OÜ",
     "code": 14581584,
     "active": "Registrisse kantud",
@@ -2877,6 +3289,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 411,
     "company": "2Lõvi OÜ",
     "code": 12029115,
     "active": "Registrisse kantud",
@@ -2884,6 +3297,7 @@
     "city": "Hiiumaa vald"
   },
   {
+    "id": 412,
     "company": "2m02 OÜ",
     "code": 14177765,
     "active": "Registrisse kantud",
@@ -2891,6 +3305,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 413,
     "company": "2M4R Holding OÜ",
     "code": 14271145,
     "active": "Registrisse kantud",
@@ -2898,6 +3313,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 414,
     "company": "2MATEERIA OÜ",
     "code": 12498407,
     "active": "Registrisse kantud",
@@ -2905,6 +3321,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 415,
     "company": "2MD EXPERT OÜ",
     "code": 12436435,
     "active": "Registrisse kantud",
@@ -2912,6 +3329,7 @@
     "city": ""
   },
   {
+    "id": 416,
     "company": "2Med OÜ",
     "code": 12995525,
     "active": "Registrisse kantud",
@@ -2919,6 +3337,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 417,
     "company": "2M Engineering Systems OÜ",
     "code": 14181459,
     "active": "Registrisse kantud",
@@ -2926,6 +3345,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 418,
     "company": "2meSystems OÜ",
     "code": 14737678,
     "active": "Registrisse kantud",
@@ -2933,6 +3353,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 419,
     "company": "2MHand OÜ",
     "code": 12228470,
     "active": "Registrisse kantud",
@@ -2940,6 +3361,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 420,
     "company": "2minutit UÜ",
     "code": 14337022,
     "active": "Registrisse kantud",
@@ -2947,6 +3369,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 421,
     "company": "2M OÜ",
     "code": 12986354,
     "active": "Registrisse kantud",
@@ -2954,6 +3377,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 422,
     "company": "2MR OÜ",
     "code": 11910194,
     "active": "Registrisse kantud",
@@ -2961,6 +3385,7 @@
     "city": "Tori vald"
   },
   {
+    "id": 423,
     "company": "2M Teenused OÜ",
     "code": 12534511,
     "active": "Registrisse kantud",
@@ -2968,6 +3393,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 424,
     "company": "2NT OÜ",
     "code": 12946188,
     "active": "Registrisse kantud",
@@ -2975,6 +3401,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 425,
     "company": "2o2o OÜ",
     "code": 14614384,
     "active": "Registrisse kantud",
@@ -2982,6 +3409,7 @@
     "city": "Saaremaa vald"
   },
   {
+    "id": 426,
     "company": "2Partnerit OÜ",
     "code": 14389792,
     "active": "Registrisse kantud",
@@ -2989,6 +3417,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 427,
     "company": "2PEA OÜ",
     "code": 11164963,
     "active": "Registrisse kantud",
@@ -2996,6 +3425,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 428,
     "company": "2PI EST OÜ",
     "code": 11427138,
     "active": "Registrisse kantud",
@@ -3003,6 +3433,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 429,
     "company": "2 Pintslit OÜ",
     "code": 12989789,
     "active": "Registrisse kantud",
@@ -3010,6 +3441,7 @@
     "city": "Harju maakond"
   },
   {
+    "id": 430,
     "company": "2Pärli OÜ",
     "code": 12567717,
     "active": "Registrisse kantud",
@@ -3017,6 +3449,7 @@
     "city": "Saaremaa vald"
   },
   {
+    "id": 431,
     "company": "2QE Finance OÜ",
     "code": 14595385,
     "active": "Registrisse kantud",
@@ -3024,6 +3457,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 432,
     "company": "2QT OÜ",
     "code": 14390358,
     "active": "Registrisse kantud",
@@ -3031,6 +3465,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 433,
     "company": "2RA OÜ",
     "code": 12843904,
     "active": "Registrisse kantud",
@@ -3038,6 +3473,7 @@
     "city": "Kiili vald"
   },
   {
+    "id": 434,
     "company": "2R Capital Partners UÜ",
     "code": 11025256,
     "active": "Registrisse kantud",
@@ -3045,6 +3481,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 435,
     "company": "2Red Lights OÜ",
     "code": 14081663,
     "active": "Registrisse kantud",
@@ -3052,6 +3489,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 436,
     "company": "2Rent OÜ",
     "code": 12741760,
     "active": "Registrisse kantud",
@@ -3059,6 +3497,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 437,
     "company": "2R Group OÜ",
     "code": 11396751,
     "active": "Registrisse kantud",
@@ -3066,6 +3505,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 438,
     "company": "2S2B Social Media OÜ",
     "code": 14543684,
     "active": "Registrisse kantud",
@@ -3073,6 +3513,7 @@
     "city": ""
   },
   {
+    "id": 439,
     "company": "2senores OÜ",
     "code": 14534403,
     "active": "Registrisse kantud",
@@ -3080,6 +3521,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 440,
     "company": "2S GRUPP OÜ",
     "code": 14357786,
     "active": "Registrisse kantud",
@@ -3087,6 +3529,7 @@
     "city": "Anija vald"
   },
   {
+    "id": 441,
     "company": "2 Silma OÜ",
     "code": 11662098,
     "active": "Registrisse kantud",
@@ -3094,6 +3537,7 @@
     "city": "Saku vald"
   },
   {
+    "id": 442,
     "company": "2S Invest OÜ",
     "code": 12532417,
     "active": "Registrisse kantud",
@@ -3101,6 +3545,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 443,
     "company": "2 Sisters Trade OÜ",
     "code": 12948709,
     "active": "Registrisse kantud",
@@ -3108,6 +3553,7 @@
     "city": "Viimsi vald"
   },
   {
+    "id": 444,
     "company": "2Smart OÜ",
     "code": 11064670,
     "active": "Registrisse kantud",
@@ -3115,6 +3561,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 445,
     "company": "2Smart Systems OÜ",
     "code": 14629670,
     "active": "Registrisse kantud",
@@ -3122,6 +3569,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 446,
     "company": "2 Soni OÜ",
     "code": 12712289,
     "active": "Registrisse kantud",
@@ -3129,6 +3577,7 @@
     "city": "Pärnu linn"
   },
   {
+    "id": 447,
     "company": "2S&S genus OÜ",
     "code": 14446484,
     "active": "Registrisse kantud",
@@ -3136,6 +3585,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 448,
     "company": "2 Stone Solutions OÜ",
     "code": 12269476,
     "active": "Registrisse kantud",
@@ -3143,6 +3593,7 @@
     "city": "Rae vald"
   },
   {
+    "id": 449,
     "company": "2SUNS EST OÜ",
     "code": 14620491,
     "active": "Registrisse kantud",
@@ -3150,6 +3601,7 @@
     "city": ""
   },
   {
+    "id": 450,
     "company": "2tamsalu OÜ",
     "code": 12681838,
     "active": "Registrisse kantud",
@@ -3157,6 +3609,7 @@
     "city": "Saaremaa vald"
   },
   {
+    "id": 451,
     "company": "2T Catering OÜ",
     "code": 12657917,
     "active": "Likvideerimisel",
@@ -3164,6 +3617,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 452,
     "company": "2TheKey OÜ",
     "code": 12768887,
     "active": "Registrisse kantud",
@@ -3171,6 +3625,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 453,
     "company": "2tmfunds OÜ",
     "code": 14636182,
     "active": "Registrisse kantud",
@@ -3178,6 +3633,7 @@
     "city": "Kuusalu vald"
   },
   {
+    "id": 454,
     "company": "2T Osaühing",
     "code": 11436657,
     "active": "Registrisse kantud",
@@ -3185,6 +3641,7 @@
     "city": "Ida-Viru maakond"
   },
   {
+    "id": 455,
     "company": "2T Technology OÜ",
     "code": 12063052,
     "active": "Registrisse kantud",
@@ -3192,6 +3649,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 456,
     "company": "2u1k international OÜ",
     "code": 14732758,
     "active": "Registrisse kantud",
@@ -3199,6 +3657,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 457,
     "company": "2U OÜ",
     "code": 12586413,
     "active": "Registrisse kantud",
@@ -3206,6 +3665,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 458,
     "company": "2US product OÜ",
     "code": 14303945,
     "active": "Registrisse kantud",
@@ -3213,6 +3673,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 459,
     "company": "2WAY OÜ",
     "code": 11914364,
     "active": "Registrisse kantud",
@@ -3220,6 +3681,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 460,
     "company": "2Way Solutions OÜ",
     "code": 12739391,
     "active": "Registrisse kantud",
@@ -3227,6 +3689,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 461,
     "company": "2Your Service OÜ",
     "code": 11171118,
     "active": "Registrisse kantud",
@@ -3234,6 +3697,7 @@
     "city": "Viljandi maakond"
   },
   {
+    "id": 462,
     "company": "3000 Productions OÜ",
     "code": 14365604,
     "active": "Registrisse kantud",
@@ -3241,6 +3705,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 463,
     "company": "3032 OÜ",
     "code": 14917972,
     "active": "Registrisse kantud",
@@ -3248,6 +3713,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 464,
     "company": "303 Team OÜ",
     "code": 14359294,
     "active": "Registrisse kantud",
@@ -3255,6 +3721,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 465,
     "company": "305 Records OÜ",
     "code": 12247243,
     "active": "Registrisse kantud",
@@ -3262,6 +3729,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 466,
     "company": "30coffee OÜ",
     "code": 14613195,
     "active": "Registrisse kantud",
@@ -3269,6 +3737,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 467,
     "company": "30dollarhomes OÜ",
     "code": 12966819,
     "active": "Registrisse kantud",
@@ -3276,6 +3745,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 468,
     "company": "30 Hz OÜ",
     "code": 12597368,
     "active": "Registrisse kantud",
@@ -3283,6 +3753,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 469,
     "company": "30 Passi OÜ",
     "code": 14429592,
     "active": "Registrisse kantud",
@@ -3290,6 +3761,7 @@
     "city": "Viimsi vald"
   },
   {
+    "id": 470,
     "company": "30pluss osaühing",
     "code": 11690674,
     "active": "Registrisse kantud",
@@ -3297,6 +3769,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 471,
     "company": "313 Fashion OÜ",
     "code": 12445730,
     "active": "Registrisse kantud",
@@ -3304,6 +3777,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 472,
     "company": "314 Finance OÜ",
     "code": 12751316,
     "active": "Registrisse kantud",
@@ -3311,6 +3785,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 473,
     "company": "327 Spirits OÜ",
     "code": 14620114,
     "active": "Registrisse kantud",
@@ -3318,6 +3793,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 474,
     "company": "32dent OÜ",
     "code": 14487098,
     "active": "Likvideerimisel",
@@ -3325,6 +3801,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 475,
     "company": "333 Finance OÜ",
     "code": 12786201,
     "active": "Registrisse kantud",
@@ -3332,6 +3809,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 476,
     "company": "33 Kaday OÜ",
     "code": 14800780,
     "active": "Registrisse kantud",
@@ -3339,6 +3817,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 477,
     "company": "33 Lemons OÜ",
     "code": 12189238,
     "active": "Registrisse kantud",
@@ -3346,6 +3825,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 478,
     "company": "33Signals OÜ",
     "code": 14218004,
     "active": "Registrisse kantud",
@@ -3353,6 +3833,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 479,
     "company": "3455 OÜ",
     "code": 14311637,
     "active": "Registrisse kantud",
@@ -3360,6 +3841,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 480,
     "company": "3500 OÜ",
     "code": 14185664,
     "active": "Registrisse kantud",
@@ -3367,6 +3849,7 @@
     "city": "Saaremaa vald"
   },
   {
+    "id": 481,
     "company": "35FIT OÜ",
     "code": 14520329,
     "active": "Registrisse kantud",
@@ -3374,6 +3857,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 482,
     "company": "360Amigo OÜ",
     "code": 12368596,
     "active": "Registrisse kantud",
@@ -3381,6 +3865,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 483,
     "company": "360Auto OÜ",
     "code": 14867978,
     "active": "Registrisse kantud",
@@ -3388,6 +3873,7 @@
     "city": "Võru maakond"
   },
   {
+    "id": 484,
     "company": "360 Avia Services OÜ",
     "code": 14245857,
     "active": "Registrisse kantud",
@@ -3395,6 +3881,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 485,
     "company": "360 Capital OÜ",
     "code": 12841839,
     "active": "Registrisse kantud",
@@ -3402,6 +3889,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 486,
     "company": "360 Components OÜ",
     "code": 14300906,
     "active": "Registrisse kantud",
@@ -3409,6 +3897,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 487,
     "company": "360digitals OÜ",
     "code": 14843050,
     "active": "Registrisse kantud",
@@ -3416,6 +3905,7 @@
     "city": ""
   },
   {
+    "id": 488,
     "company": "360Health OÜ",
     "code": 14889164,
     "active": "Registrisse kantud",
@@ -3423,6 +3913,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 489,
     "company": "360 Hydra OÜ",
     "code": 14633648,
     "active": "Registrisse kantud",
@@ -3430,6 +3921,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 490,
     "company": "360 Listings OÜ",
     "code": 14286661,
     "active": "Registrisse kantud",
@@ -3437,6 +3929,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 491,
     "company": "360 Media OÜ",
     "code": 12546862,
     "active": "Registrisse kantud",
@@ -3444,6 +3937,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 492,
     "company": "360solutions OÜ",
     "code": 14375407,
     "active": "Registrisse kantud",
@@ -3451,6 +3945,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 493,
     "company": "361 ventures OÜ",
     "code": 14637209,
     "active": "Registrisse kantud",
@@ -3458,6 +3953,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 494,
     "company": "363 OÜ",
     "code": 14386635,
     "active": "Likvideerimisel",
@@ -3465,6 +3961,7 @@
     "city": "Otepää vald"
   },
   {
+    "id": 495,
     "company": "365cash OÜ",
     "code": 14397478,
     "active": "Registrisse kantud",
@@ -3472,6 +3969,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 496,
     "company": "365CloudBackup OÜ",
     "code": 14806118,
     "active": "Registrisse kantud",
@@ -3479,6 +3977,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 497,
     "company": "365 Emoney OÜ",
     "code": 14900776,
     "active": "Registrisse kantud",
@@ -3486,6 +3985,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 498,
     "company": "365 Finance EST UÜ",
     "code": 14233894,
     "active": "Registrisse kantud",
@@ -3493,6 +3993,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 499,
     "company": "365JP OÜ",
     "code": 14269875,
     "active": "Registrisse kantud",
@@ -3500,6 +4001,7 @@
     "city": "Saku vald"
   },
   {
+    "id": 500,
     "company": "365ONLINESTORE OÜ",
     "code": 14807539,
     "active": "Registrisse kantud",
@@ -3507,6 +4009,7 @@
     "city": "Saku vald"
   },
   {
+    "id": 501,
     "company": "365 pilti OÜ",
     "code": 14010692,
     "active": "Registrisse kantud",
@@ -3514,6 +4017,7 @@
     "city": "Mustvee vald"
   },
   {
+    "id": 502,
     "company": "365 Ürituste UÜ",
     "code": 14232197,
     "active": "Registrisse kantud",
@@ -3521,6 +4025,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 503,
     "company": "369 INSENERIBÜROO OÜ",
     "code": 14875038,
     "active": "Registrisse kantud",
@@ -3528,6 +4033,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 504,
     "company": "372 Creative OÜ",
     "code": 14425186,
     "active": "Registrisse kantud",
@@ -3535,6 +4041,7 @@
     "city": "Rõuge vald"
   },
   {
+    "id": 505,
     "company": "372 Design OÜ",
     "code": 12544372,
     "active": "Registrisse kantud",
@@ -3542,6 +4049,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 506,
     "company": "372 Studio OÜ",
     "code": 12213020,
     "active": "Registrisse kantud",
@@ -3549,6 +4057,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 507,
     "company": "377 Tallinn OÜ",
     "code": 14563907,
     "active": "Registrisse kantud",
@@ -3556,6 +4065,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 508,
     "company": "386 OÜ",
     "code": 12874264,
     "active": "Registrisse kantud",
@@ -3563,6 +4073,7 @@
     "city": "Elva vald"
   },
   {
+    "id": 509,
     "company": "393BOR OÜ",
     "code": 14370746,
     "active": "Registrisse kantud",
@@ -3570,6 +4081,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 510,
     "company": "39 MC Mittetulundusühing",
     "code": 80355562,
     "active": "Registrisse kantud",
@@ -3577,6 +4089,7 @@
     "city": "Kambja vald"
   },
   {
+    "id": 511,
     "company": "3A Consulting OÜ",
     "code": 12969232,
     "active": "Registrisse kantud",
@@ -3584,6 +4097,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 512,
     "company": "3A EHITUS OÜ",
     "code": 14916045,
     "active": "Registrisse kantud",
@@ -3591,6 +4105,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 513,
     "company": "3A Holdings OÜ",
     "code": 14774739,
     "active": "Registrisse kantud",
@@ -3598,6 +4113,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 514,
     "company": "3a-investments OÜ",
     "code": 12125735,
     "active": "Registrisse kantud",
@@ -3605,6 +4121,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 515,
     "company": "3 Air OÜ",
     "code": 11856721,
     "active": "Registrisse kantud",
@@ -3612,6 +4129,7 @@
     "city": "Viljandi vald"
   },
   {
+    "id": 516,
     "company": "3 A - Kuup OÜ",
     "code": 11564510,
     "active": "Registrisse kantud",
@@ -3619,6 +4137,7 @@
     "city": "Rapla vald"
   },
   {
+    "id": 517,
     "company": "3A-Services OÜ",
     "code": 12890660,
     "active": "Registrisse kantud",
@@ -3626,6 +4145,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 518,
     "company": "3AT OÜ",
     "code": 14828441,
     "active": "Registrisse kantud",
@@ -3633,6 +4153,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 519,
     "company": "3B Solutions OÜ",
     "code": 12620653,
     "active": "Registrisse kantud",
@@ -3640,6 +4161,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 520,
     "company": "3-C Baltics OÜ",
     "code": 10310724,
     "active": "Likvideerimisel",
@@ -3647,6 +4169,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 521,
     "company": "3 colors interactive OÜ",
     "code": 14583152,
     "active": "Registrisse kantud",
@@ -3654,6 +4177,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 522,
     "company": "3Commas Exchange OÜ",
     "code": 14843699,
     "active": "Registrisse kantud",
@@ -3661,6 +4185,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 523,
     "company": "3CULAR OÜ",
     "code": 14548003,
     "active": "Registrisse kantud",
@@ -3668,6 +4193,7 @@
     "city": "Elva vald"
   },
   {
+    "id": 524,
     "company": "3D3 OÜ",
     "code": 12733854,
     "active": "Registrisse kantud",
@@ -3675,6 +4201,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 525,
     "company": "3DAmper OÜ",
     "code": 14006408,
     "active": "Registrisse kantud",
@@ -3682,6 +4209,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 526,
     "company": "3Dao Graphics OÜ",
     "code": 12743031,
     "active": "Registrisse kantud",
@@ -3689,6 +4217,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 527,
     "company": "3D Art Studio OÜ",
     "code": 12861457,
     "active": "Registrisse kantud",
@@ -3696,6 +4225,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 528,
     "company": "3D Automaatika OÜ",
     "code": 14069194,
     "active": "Registrisse kantud",
@@ -3703,6 +4233,7 @@
     "city": "Saue vald"
   },
   {
+    "id": 529,
     "company": "3D Auto OÜ",
     "code": 12276598,
     "active": "Registrisse kantud",
@@ -3710,6 +4241,7 @@
     "city": "Elva vald"
   },
   {
+    "id": 530,
     "company": "3D Blueprint Group OÜ",
     "code": 12374869,
     "active": "Registrisse kantud",
@@ -3717,6 +4249,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 531,
     "company": "3dBonus OÜ",
     "code": 14293365,
     "active": "Registrisse kantud",
@@ -3724,6 +4257,7 @@
     "city": "Pärnu linn"
   },
   {
+    "id": 532,
     "company": "3DBTK OÜ",
     "code": 14942119,
     "active": "Registrisse kantud",
@@ -3731,6 +4265,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 533,
     "company": "3D-Builder OÜ",
     "code": 14720821,
     "active": "Registrisse kantud",
@@ -3738,6 +4273,7 @@
     "city": "Pärnu linn"
   },
   {
+    "id": 534,
     "company": "3D Catering OÜ",
     "code": 14420527,
     "active": "Registrisse kantud",
@@ -3745,6 +4281,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 535,
     "company": "3D CITY OÜ",
     "code": 14863456,
     "active": "Registrisse kantud",
@@ -3752,6 +4289,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 536,
     "company": "3D Creationist OÜ",
     "code": 12831249,
     "active": "Registrisse kantud",
@@ -3759,6 +4297,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 537,
     "company": "3D Creative Systems OÜ",
     "code": 12551066,
     "active": "Registrisse kantud",
@@ -3766,6 +4305,7 @@
     "city": "Saue vald"
   },
   {
+    "id": 538,
     "company": "3DecoR OÜ",
     "code": 14462000,
     "active": "Registrisse kantud",
@@ -3773,6 +4313,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 539,
     "company": "3DE DISAIN OÜ",
     "code": 12128840,
     "active": "Registrisse kantud",
@@ -3780,6 +4321,7 @@
     "city": "Türi vald"
   },
   {
+    "id": 540,
     "company": "3d.ee OÜ",
     "code": 10423575,
     "active": "Registrisse kantud",
@@ -3787,6 +4329,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 541,
     "company": "3D EKSPERT OÜ",
     "code": 10480219,
     "active": "Registrisse kantud",
@@ -3794,6 +4337,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 542,
     "company": "3d Energy Service OÜ",
     "code": 14321185,
     "active": "Registrisse kantud",
@@ -3801,6 +4345,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 543,
     "company": "3DENT OÜ",
     "code": 14553300,
     "active": "Registrisse kantud",
@@ -3808,6 +4353,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 544,
     "company": "3DFoodlab OÜ",
     "code": 14090716,
     "active": "Registrisse kantud",
@@ -3815,6 +4361,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 545,
     "company": "3DFREUNDE OÜ",
     "code": 14532829,
     "active": "Registrisse kantud",
@@ -3822,6 +4369,7 @@
     "city": "Kuusalu vald"
   },
   {
+    "id": 546,
     "company": "3DGolf OÜ",
     "code": 11474132,
     "active": "Likvideerimisel",
@@ -3829,6 +4377,7 @@
     "city": "Saue vald"
   },
   {
+    "id": 547,
     "company": "3D Graphics OÜ",
     "code": 14545772,
     "active": "Registrisse kantud",
@@ -3836,6 +4385,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 548,
     "company": "3D Grupp OÜ",
     "code": 12425704,
     "active": "Registrisse kantud",
@@ -3843,6 +4393,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 549,
     "company": "3D Hologrammid OÜ",
     "code": 14828464,
     "active": "Registrisse kantud",
@@ -3850,6 +4401,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 550,
     "company": "3D House OÜ",
     "code": 14184245,
     "active": "Registrisse kantud",
@@ -3857,6 +4409,7 @@
     "city": "Lüganuse vald"
   },
   {
+    "id": 551,
     "company": "3D idee OÜ",
     "code": 12609663,
     "active": "Registrisse kantud",
@@ -3864,6 +4417,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 552,
     "company": "3D Infra OÜ",
     "code": 12192813,
     "active": "Registrisse kantud",
@@ -3871,6 +4425,7 @@
     "city": "Rapla vald"
   },
   {
+    "id": 553,
     "company": "3Dink OÜ",
     "code": 12303071,
     "active": "Registrisse kantud",
@@ -3878,6 +4433,7 @@
     "city": "Lääne-Viru maakond"
   },
   {
+    "id": 554,
     "company": "3dInvest OÜ",
     "code": 11449660,
     "active": "Registrisse kantud",
@@ -3885,6 +4441,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 555,
     "company": "3Disain OÜ",
     "code": 11299261,
     "active": "Registrisse kantud",
@@ -3892,6 +4449,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 556,
     "company": "3D KINNISVARA HALDUSE OÜ",
     "code": 14750621,
     "active": "Registrisse kantud",
@@ -3899,6 +4457,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 557,
     "company": "3DKoda OÜ",
     "code": 14201096,
     "active": "Registrisse kantud",
@@ -3906,6 +4465,7 @@
     "city": "Saue vald"
   },
   {
+    "id": 558,
     "company": "3D kogudus",
     "code": 80321221,
     "active": "Registrisse kantud",
@@ -3913,6 +4473,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 559,
     "company": "3DK OÜ",
     "code": 14919712,
     "active": "Registrisse kantud",
@@ -3920,6 +4481,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 560,
     "company": "3DLab OÜ",
     "code": 14756463,
     "active": "Registrisse kantud",
@@ -3927,6 +4489,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 561,
     "company": "3D Lighting OÜ",
     "code": 12612719,
     "active": "Registrisse kantud",
@@ -3934,6 +4497,7 @@
     "city": "Harju maakond"
   },
   {
+    "id": 562,
     "company": "3D Line OÜ",
     "code": 12441086,
     "active": "Registrisse kantud",
@@ -3941,6 +4505,7 @@
     "city": "Ida-Viru maakond"
   },
   {
+    "id": 563,
     "company": "3D Logistic OÜ",
     "code": 12357983,
     "active": "Registrisse kantud",
@@ -3948,6 +4513,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 564,
     "company": "3D Memory OÜ",
     "code": 14608254,
     "active": "Registrisse kantud",
@@ -3955,6 +4521,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 565,
     "company": "3D Mobile Labs OÜ",
     "code": 14064392,
     "active": "Registrisse kantud",
@@ -3962,6 +4529,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 566,
     "company": "3D NORD OÜ",
     "code": 12973601,
     "active": "Registrisse kantud",
@@ -3969,6 +4537,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 567,
     "company": "3dPoint OÜ",
     "code": 11448494,
     "active": "Registrisse kantud",
@@ -3976,6 +4545,7 @@
     "city": "Peipsiääre vald"
   },
   {
+    "id": 568,
     "company": "3dPrisma OÜ",
     "code": 12160878,
     "active": "Registrisse kantud",
@@ -3983,6 +4553,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 569,
     "company": "3D-PROTO OÜ",
     "code": 10519855,
     "active": "Registrisse kantud",
@@ -3990,6 +4561,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 570,
     "company": "3D Punkt OÜ",
     "code": 14892195,
     "active": "Registrisse kantud",
@@ -3997,6 +4569,7 @@
     "city": "Elva vald"
   },
   {
+    "id": 571,
     "company": "3D-Resins OÜ",
     "code": 14611996,
     "active": "Registrisse kantud",
@@ -4004,6 +4577,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 572,
     "company": "3d rope access service OÜ",
     "code": 14762439,
     "active": "Registrisse kantud",
@@ -4011,6 +4585,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 573,
     "company": "3D Seinad OÜ",
     "code": 14420013,
     "active": "Registrisse kantud",
@@ -4018,6 +4593,7 @@
     "city": "Rae vald"
   },
   {
+    "id": 574,
     "company": "3Dservice OÜ",
     "code": 12039177,
     "active": "Registrisse kantud",
@@ -4025,6 +4601,7 @@
     "city": "Alutaguse vald"
   },
   {
+    "id": 575,
     "company": "3dSigma OÜ",
     "code": 11593285,
     "active": "Registrisse kantud",
@@ -4032,6 +4609,7 @@
     "city": "Harju maakond"
   },
   {
+    "id": 576,
     "company": "3D Sisustus OÜ",
     "code": 12083830,
     "active": "Registrisse kantud",
@@ -4039,6 +4617,7 @@
     "city": "Kambja vald"
   },
   {
+    "id": 577,
     "company": "3dStiil OÜ",
     "code": 11474637,
     "active": "Registrisse kantud",
@@ -4046,6 +4625,7 @@
     "city": "Rapla vald"
   },
   {
+    "id": 578,
     "company": "3DST OÜ",
     "code": 12454634,
     "active": "Registrisse kantud",
@@ -4053,6 +4633,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 579,
     "company": "3D Studio OÜ",
     "code": 12705220,
     "active": "Registrisse kantud",
@@ -4060,6 +4641,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 580,
     "company": "3D Talu OÜ",
     "code": 14617218,
     "active": "Registrisse kantud",
@@ -4067,6 +4649,7 @@
     "city": "Märjamaa vald"
   },
   {
+    "id": 581,
     "company": "3D Technologies R&D AS",
     "code": 11288613,
     "active": "Registrisse kantud",
@@ -4074,6 +4657,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 582,
     "company": "3D Trükikoda OÜ",
     "code": 12583159,
     "active": "Registrisse kantud",
@@ -4081,6 +4665,7 @@
     "city": "Saue vald"
   },
   {
+    "id": 583,
     "company": "3D TUUR OÜ",
     "code": 14649268,
     "active": "Registrisse kantud",
@@ -4088,6 +4673,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 584,
     "company": "3D Urban Architecture OÜ",
     "code": 12786336,
     "active": "Registrisse kantud",
@@ -4095,6 +4681,7 @@
     "city": "Pärnu linn"
   },
   {
+    "id": 585,
     "company": "3D Web OÜ",
     "code": 11484231,
     "active": "Registrisse kantud",
@@ -4102,6 +4689,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 586,
     "company": "3d Viimistlus OÜ",
     "code": 11460489,
     "active": "Registrisse kantud",
@@ -4109,6 +4697,7 @@
     "city": "Rae vald"
   },
   {
+    "id": 587,
     "company": "3D WORK OÜ",
     "code": 14011510,
     "active": "Registrisse kantud",
@@ -4116,6 +4705,7 @@
     "city": "Järva vald"
   },
   {
+    "id": 588,
     "company": "3ENERGY GROUP OÜ",
     "code": 14238679,
     "active": "Registrisse kantud",
@@ -4123,6 +4713,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 589,
     "company": "3E Technik OÜ",
     "code": 12821144,
     "active": "Registrisse kantud",
@@ -4130,6 +4721,7 @@
     "city": "Luunja vald"
   },
   {
+    "id": 590,
     "company": "3F Elekter OÜ",
     "code": 14810292,
     "active": "Registrisse kantud",
@@ -4137,6 +4729,7 @@
     "city": "Pärnu linn"
   },
   {
+    "id": 591,
     "company": "3 gallos OÜ",
     "code": 14526929,
     "active": "Registrisse kantud",
@@ -4144,6 +4737,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 592,
     "company": "3GEE OÜ",
     "code": 11323025,
     "active": "Registrisse kantud",
@@ -4151,6 +4745,7 @@
     "city": "Türi vald"
   },
   {
+    "id": 593,
     "company": "3GLA3 OÜ",
     "code": 12226608,
     "active": "Registrisse kantud",
@@ -4158,6 +4753,7 @@
     "city": "Ida-Viru maakond"
   },
   {
+    "id": 594,
     "company": "3G Ropka Varahalduse OÜ",
     "code": 12708038,
     "active": "Registrisse kantud",
@@ -4165,6 +4761,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 595,
     "company": "3 Grupp osaühing",
     "code": 11113457,
     "active": "Registrisse kantud",
@@ -4172,6 +4769,7 @@
     "city": "Rapla vald"
   },
   {
+    "id": 596,
     "company": "3in1 OÜ",
     "code": 12997919,
     "active": "Registrisse kantud",
@@ -4179,6 +4777,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 597,
     "company": "3 Invest OÜ",
     "code": 14731173,
     "active": "Registrisse kantud",
@@ -4186,6 +4785,7 @@
     "city": "Tartu vald"
   },
   {
+    "id": 598,
     "company": "3i OÜ",
     "code": 12245860,
     "active": "Registrisse kantud",
@@ -4193,6 +4793,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 599,
     "company": "3JS VIRTUTE OÜ",
     "code": 14842820,
     "active": "Registrisse kantud",
@@ -4200,6 +4801,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 600,
     "company": "3J Teknik OÜ",
     "code": 12095862,
     "active": "Registrisse kantud",
@@ -4207,6 +4809,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 601,
     "company": "3J Turundus OÜ",
     "code": 12065401,
     "active": "Likvideerimisel",
@@ -4214,6 +4817,7 @@
     "city": "Otepää vald"
   },
   {
+    "id": 602,
     "company": "3KDisain OÜ",
     "code": 14792909,
     "active": "Registrisse kantud",
@@ -4221,6 +4825,7 @@
     "city": "Kose vald"
   },
   {
+    "id": 603,
     "company": "3K Expert OÜ",
     "code": 11354445,
     "active": "Likvideerimisel",
@@ -4228,6 +4833,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 604,
     "company": "3KGroup OÜ",
     "code": 10201874,
     "active": "Registrisse kantud",
@@ -4235,6 +4841,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 605,
     "company": "3K REAL ESTATE OÜ",
     "code": 14474813,
     "active": "Registrisse kantud",
@@ -4242,6 +4849,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 606,
     "company": "3K Stuudio OÜ",
     "code": 12990999,
     "active": "Registrisse kantud",
@@ -4249,6 +4857,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 607,
     "company": "3 Lift OÜ",
     "code": 14474457,
     "active": "Registrisse kantud",
@@ -4256,6 +4865,7 @@
     "city": "Rae vald"
   },
   {
+    "id": 608,
     "company": "3 Lions EST OÜ",
     "code": 14540674,
     "active": "Registrisse kantud",
@@ -4263,6 +4873,7 @@
     "city": ""
   },
   {
+    "id": 609,
     "company": "3LOG Solutions OÜ",
     "code": 14052176,
     "active": "Registrisse kantud",
@@ -4270,6 +4881,7 @@
     "city": "Paide linn"
   },
   {
+    "id": 610,
     "company": "3 LV OÜ",
     "code": 14270341,
     "active": "Registrisse kantud",
@@ -4277,6 +4889,7 @@
     "city": "Elva vald"
   },
   {
+    "id": 611,
     "company": "3markets OÜ",
     "code": 11093855,
     "active": "Registrisse kantud",
@@ -4284,6 +4897,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 612,
     "company": "3M Eesti OÜ",
     "code": 11668959,
     "active": "Registrisse kantud",
@@ -4291,6 +4905,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 613,
     "company": "3MS Machinery OÜ",
     "code": 14206171,
     "active": "Registrisse kantud",
@@ -4298,6 +4913,7 @@
     "city": "Saue vald"
   },
   {
+    "id": 614,
     "company": "3MS OÜ",
     "code": 12843821,
     "active": "Registrisse kantud",
@@ -4305,6 +4921,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 615,
     "company": "3NC Technology OÜ",
     "code": 14614237,
     "active": "Registrisse kantud",
@@ -4312,6 +4929,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 616,
     "company": "3nigma OÜ",
     "code": 14409371,
     "active": "Registrisse kantud",
@@ -4319,6 +4937,7 @@
     "city": "Viimsi vald"
   },
   {
+    "id": 617,
     "company": "3N OÜ",
     "code": 14279394,
     "active": "Registrisse kantud",
@@ -4326,6 +4945,7 @@
     "city": "Kiili vald"
   },
   {
+    "id": 618,
     "company": "3N Residential OÜ",
     "code": 12368449,
     "active": "Registrisse kantud",
@@ -4333,6 +4953,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 619,
     "company": "3N Reval OÜ",
     "code": 11980013,
     "active": "Registrisse kantud",
@@ -4340,6 +4961,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 620,
     "company": "3olives OÜ",
     "code": 11357159,
     "active": "Registrisse kantud",
@@ -4347,6 +4969,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 621,
     "company": "3park Eesti OÜ",
     "code": 14928846,
     "active": "Registrisse kantud",
@@ -4354,6 +4977,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 622,
     "company": "3park OÜ",
     "code": 12697041,
     "active": "Registrisse kantud",
@@ -4361,6 +4985,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 623,
     "company": "3 Partners Eesti OÜ",
     "code": 14625258,
     "active": "Registrisse kantud",
@@ -4368,6 +4993,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 624,
     "company": "3p logistics OÜ",
     "code": 14736880,
     "active": "Registrisse kantud",
@@ -4375,6 +5001,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 625,
     "company": "3Points OÜ",
     "code": 14880269,
     "active": "Registrisse kantud",
@@ -4382,6 +5009,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 626,
     "company": "3PO OÜ",
     "code": 12954360,
     "active": "Registrisse kantud",
@@ -4389,6 +5017,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 627,
     "company": "3P Pro OÜ",
     "code": 11809934,
     "active": "Registrisse kantud",
@@ -4396,6 +5025,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 628,
     "company": "3PR Advisory OÜ",
     "code": 14707849,
     "active": "Registrisse kantud",
@@ -4403,6 +5033,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 629,
     "company": "3PRO TRADE OÜ",
     "code": 14222626,
     "active": "Registrisse kantud",
@@ -4410,6 +5041,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 630,
     "company": "3Punkti OÜ",
     "code": 12231963,
     "active": "Registrisse kantud",
@@ -4417,6 +5049,7 @@
     "city": "Rae vald"
   },
   {
+    "id": 631,
     "company": "3 Quarters OÜ",
     "code": 14243255,
     "active": "Registrisse kantud",
@@ -4424,6 +5057,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 632,
     "company": "3QUENT COMMUNICATIONS OÜ",
     "code": 12421942,
     "active": "Registrisse kantud",
@@ -4431,6 +5065,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 633,
     "company": "3QWS OÜ",
     "code": 14632399,
     "active": "Registrisse kantud",
@@ -4438,6 +5073,7 @@
     "city": "Rae vald"
   },
   {
+    "id": 634,
     "company": "3R Computers OÜ",
     "code": 11396745,
     "active": "Registrisse kantud",
@@ -4445,6 +5081,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 635,
     "company": "3rdEFX OÜ",
     "code": 12816244,
     "active": "Registrisse kantud",
@@ -4452,6 +5089,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 636,
     "company": "3rd Floor Studio OÜ",
     "code": 14618525,
     "active": "Registrisse kantud",
@@ -4459,6 +5097,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 637,
     "company": "3rdhub OÜ",
     "code": 14857081,
     "active": "Registrisse kantud",
@@ -4466,6 +5105,7 @@
     "city": "Kuusalu vald"
   },
   {
+    "id": 638,
     "company": "3R Ehitus OÜ",
     "code": 14490812,
     "active": "Registrisse kantud",
@@ -4473,6 +5113,7 @@
     "city": "Tartu vald"
   },
   {
+    "id": 639,
     "company": "3R Elekter OÜ",
     "code": 14486302,
     "active": "Registrisse kantud",
@@ -4480,6 +5121,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 640,
     "company": "3RG OÜ",
     "code": 14200300,
     "active": "Registrisse kantud",
@@ -4487,6 +5129,7 @@
     "city": "Pärnu linn"
   },
   {
+    "id": 641,
     "company": "3RK Teenused OÜ",
     "code": 14822728,
     "active": "Registrisse kantud",
@@ -4494,6 +5137,7 @@
     "city": "Väike-Maarja vald"
   },
   {
+    "id": 642,
     "company": "3Rähni Mittetulundusühing",
     "code": 80335246,
     "active": "Registrisse kantud",
@@ -4501,6 +5145,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 643,
     "company": "3 Selli OÜ",
     "code": 11256808,
     "active": "Registrisse kantud",
@@ -4508,6 +5153,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 644,
     "company": "3 SELTSIMEEST OÜ",
     "code": 12167082,
     "active": "Registrisse kantud",
@@ -4515,6 +5161,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 645,
     "company": "3S Group OÜ",
     "code": 12579838,
     "active": "Registrisse kantud",
@@ -4522,6 +5169,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 646,
     "company": "3 Soovi OÜ",
     "code": 10671623,
     "active": "Registrisse kantud",
@@ -4529,6 +5177,7 @@
     "city": "Lääne-Harju vald"
   },
   {
+    "id": 647,
     "company": "3Sped OÜ",
     "code": 11711684,
     "active": "Registrisse kantud",
@@ -4536,6 +5185,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 648,
     "company": "3ST OÜ",
     "code": 12830534,
     "active": "Registrisse kantud",
@@ -4543,6 +5193,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 649,
     "company": "3Teed Consulting OÜ",
     "code": 14210095,
     "active": "Registrisse kantud",
@@ -4550,6 +5201,7 @@
     "city": "Lääne-Viru maakond"
   },
   {
+    "id": 650,
     "company": "3 tegu OÜ",
     "code": 14531215,
     "active": "Registrisse kantud",
@@ -4557,6 +5209,7 @@
     "city": "Setomaa vald"
   },
   {
+    "id": 651,
     "company": "3T GROUP LIMITED OÜ",
     "code": 14131527,
     "active": "Registrisse kantud",
@@ -4564,6 +5217,7 @@
     "city": ""
   },
   {
+    "id": 652,
     "company": "3T&K Group OÜ",
     "code": 11159287,
     "active": "Registrisse kantud",
@@ -4571,6 +5225,7 @@
     "city": "Kiili vald"
   },
   {
+    "id": 653,
     "company": "3 Tooni OÜ",
     "code": 14583755,
     "active": "Registrisse kantud",
@@ -4578,6 +5233,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 654,
     "company": "3T OÜ",
     "code": 12652954,
     "active": "Registrisse kantud",
@@ -4585,6 +5241,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 655,
     "company": "3T Technology OÜ",
     "code": 11357567,
     "active": "Registrisse kantud",
@@ -4592,6 +5249,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 656,
     "company": "3 TUBA OÜ",
     "code": 14912163,
     "active": "Registrisse kantud",
@@ -4599,6 +5257,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 657,
     "company": "3v3 Europe OÜ",
     "code": 12387820,
     "active": "Registrisse kantud",
@@ -4606,6 +5265,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 658,
     "company": "3 Way Invest OÜ",
     "code": 14584849,
     "active": "Registrisse kantud",
@@ -4613,6 +5273,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 659,
     "company": "3wells OÜ",
     "code": 11245584,
     "active": "Registrisse kantud",
@@ -4620,6 +5281,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 660,
     "company": "3W Investments OÜ",
     "code": 12062615,
     "active": "Registrisse kantud",
@@ -4627,6 +5289,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 661,
     "company": "3wsolution OÜ",
     "code": 11444786,
     "active": "Registrisse kantud",
@@ -4634,6 +5297,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 662,
     "company": "3V Tehnika OÜ",
     "code": 11719941,
     "active": "Registrisse kantud",
@@ -4641,6 +5305,7 @@
     "city": "Kadrina vald"
   },
   {
+    "id": 663,
     "company": "3x3 OÜ",
     "code": 11947607,
     "active": "Registrisse kantud",
@@ -4648,6 +5313,7 @@
     "city": "Kadrina vald"
   },
   {
+    "id": 664,
     "company": "3X Capital OÜ",
     "code": 14680576,
     "active": "Registrisse kantud",
@@ -4655,6 +5321,7 @@
     "city": "Põlva vald"
   },
   {
+    "id": 665,
     "company": "3XM Car Service OÜ",
     "code": 11440498,
     "active": "Registrisse kantud",
@@ -4662,6 +5329,7 @@
     "city": "Kambja vald"
   },
   {
+    "id": 666,
     "company": "3xs Partnerid OÜ",
     "code": 12348263,
     "active": "Registrisse kantud",
@@ -4669,6 +5337,7 @@
     "city": "Saue vald"
   },
   {
+    "id": 667,
     "company": "3X Trade OÜ",
     "code": 14183257,
     "active": "Registrisse kantud",
@@ -4676,6 +5345,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 668,
     "company": "400V OÜ",
     "code": 14633698,
     "active": "Registrisse kantud",
@@ -4683,6 +5353,7 @@
     "city": "Lääne-Viru maakond"
   },
   {
+    "id": 669,
     "company": "404-dev OÜ",
     "code": 14569152,
     "active": "Registrisse kantud",
@@ -4690,6 +5361,7 @@
     "city": ""
   },
   {
+    "id": 670,
     "company": "404 LAB OÜ",
     "code": 14552817,
     "active": "Registrisse kantud",
@@ -4697,6 +5369,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 671,
     "company": "40HC Logistics OÜ",
     "code": 12665153,
     "active": "Registrisse kantud",
@@ -4704,6 +5377,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 672,
     "company": "41North OÜ",
     "code": 14914985,
     "active": "Registrisse kantud",
@@ -4711,6 +5385,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 673,
     "company": "420devIce OÜ",
     "code": 14167749,
     "active": "Registrisse kantud",
@@ -4718,6 +5393,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 674,
     "company": "420 Estonia OÜ",
     "code": 14781001,
     "active": "Registrisse kantud",
@@ -4725,6 +5401,7 @@
     "city": "Võru maakond"
   },
   {
+    "id": 675,
     "company": "420 SPOT OF TALLINN OÜ",
     "code": 14725379,
     "active": "Registrisse kantud",
@@ -4732,6 +5409,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 676,
     "company": "42 Coffee Cups OÜ",
     "code": 12382521,
     "active": "Registrisse kantud",
@@ -4739,6 +5417,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 677,
     "company": "42DEL OÜ",
     "code": 12770312,
     "active": "Registrisse kantud",
@@ -4746,6 +5425,7 @@
     "city": "Viimsi vald"
   },
   {
+    "id": 678,
     "company": "42keiken OÜ",
     "code": 14868682,
     "active": "Registrisse kantud",
@@ -4753,6 +5433,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 679,
     "company": "42ne Solutions OÜ",
     "code": 12158717,
     "active": "Registrisse kantud",
@@ -4760,6 +5441,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 680,
     "company": "42.network OÜ",
     "code": 14283510,
     "active": "Registrisse kantud",
@@ -4767,6 +5449,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 681,
     "company": "42 OÜ",
     "code": 11454477,
     "active": "Registrisse kantud",
@@ -4774,6 +5457,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 682,
     "company": "42piratas OÜ",
     "code": 14564953,
     "active": "Registrisse kantud",
@@ -4781,6 +5465,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 683,
     "company": "43 ASJA OÜ",
     "code": 14260383,
     "active": "Registrisse kantud",
@@ -4788,6 +5473,7 @@
     "city": "Põhja-Sakala vald"
   },
   {
+    "id": 684,
     "company": "43dB OÜ",
     "code": 12590076,
     "active": "Registrisse kantud",
@@ -4795,6 +5481,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 685,
     "company": "43mm OÜ",
     "code": 12975787,
     "active": "Registrisse kantud",
@@ -4802,6 +5489,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 686,
     "company": "440Hz OÜ",
     "code": 14308902,
     "active": "Registrisse kantud",
@@ -4809,6 +5497,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 687,
     "company": "47tech OÜ",
     "code": 14209005,
     "active": "Registrisse kantud",
@@ -4816,6 +5505,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 688,
     "company": "48Mb OÜ",
     "code": 12356423,
     "active": "Registrisse kantud",
@@ -4823,6 +5513,7 @@
     "city": "Harju maakond"
   },
   {
+    "id": 689,
     "company": "4A Investments OÜ",
     "code": 11118940,
     "active": "Registrisse kantud",
@@ -4830,6 +5521,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 690,
     "company": "4Alaska UÜ",
     "code": 12632633,
     "active": "Registrisse kantud",
@@ -4837,6 +5529,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 691,
     "company": "4A LAW CONSULTING OÜ",
     "code": 14215767,
     "active": "Registrisse kantud",
@@ -4844,6 +5537,7 @@
     "city": "Harju maakond"
   },
   {
+    "id": 692,
     "company": "4All OÜ",
     "code": 12075919,
     "active": "Registrisse kantud",
@@ -4851,6 +5545,7 @@
     "city": "Rae vald"
   },
   {
+    "id": 693,
     "company": "4A Lux OÜ",
     "code": 14575744,
     "active": "Registrisse kantud",
@@ -4858,6 +5553,7 @@
     "city": "Tori vald"
   },
   {
+    "id": 694,
     "company": "4 AVX OÜ",
     "code": 11581572,
     "active": "Registrisse kantud",
@@ -4865,6 +5561,7 @@
     "city": "Harju maakond"
   },
   {
+    "id": 695,
     "company": "4Beards OÜ",
     "code": 14573892,
     "active": "Registrisse kantud",
@@ -4872,6 +5569,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 696,
     "company": "4BEAUTIBY OÜ",
     "code": 14646444,
     "active": "Registrisse kantud",
@@ -4879,6 +5577,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 697,
     "company": "4Body OÜ",
     "code": 12008308,
     "active": "Registrisse kantud",
@@ -4886,6 +5585,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 698,
     "company": "4Canine OÜ",
     "code": 12790131,
     "active": "Registrisse kantud",
@@ -4893,6 +5593,7 @@
     "city": "Kadrina vald"
   },
   {
+    "id": 699,
     "company": "4Capes OÜ",
     "code": 10890348,
     "active": "Registrisse kantud",
@@ -4900,6 +5601,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 700,
     "company": "4changemakers OÜ",
     "code": 14856880,
     "active": "Registrisse kantud",
@@ -4907,6 +5609,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 701,
     "company": "4Clover OÜ",
     "code": 14396875,
     "active": "Registrisse kantud",
@@ -4914,6 +5617,7 @@
     "city": "Kuusalu vald"
   },
   {
+    "id": 702,
     "company": "4Cr8 OÜ",
     "code": 14558705,
     "active": "Registrisse kantud",
@@ -4921,6 +5625,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 703,
     "company": "4D AEQ UÜ",
     "code": 12394665,
     "active": "Registrisse kantud",
@@ -4928,6 +5633,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 704,
     "company": "4Dance OÜ",
     "code": 12682855,
     "active": "Registrisse kantud",
@@ -4935,6 +5641,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 705,
     "company": "4D Capital Management OÜ",
     "code": 11075449,
     "active": "Registrisse kantud",
@@ -4942,6 +5649,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 706,
     "company": "4D Creative OÜ",
     "code": 12073027,
     "active": "Registrisse kantud",
@@ -4949,6 +5657,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 707,
     "company": "4dev studio OÜ",
     "code": 14558237,
     "active": "Registrisse kantud",
@@ -4956,6 +5665,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 708,
     "company": "4D Floatation OÜ",
     "code": 14255880,
     "active": "Registrisse kantud",
@@ -4963,6 +5673,7 @@
     "city": "Väike-Maarja vald"
   },
   {
+    "id": 709,
     "company": "4D Grupp OÜ",
     "code": 14314825,
     "active": "Registrisse kantud",
@@ -4970,6 +5681,7 @@
     "city": "Rae vald"
   },
   {
+    "id": 710,
     "company": "4D Markets OÜ",
     "code": 14821048,
     "active": "Registrisse kantud",
@@ -4977,6 +5689,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 711,
     "company": "4D Masters OÜ",
     "code": 11289788,
     "active": "Registrisse kantud",
@@ -4984,6 +5697,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 712,
     "company": "4D PR-lahendused OÜ",
     "code": 12568527,
     "active": "Registrisse kantud",
@@ -4991,6 +5705,7 @@
     "city": "Harju maakond"
   },
   {
+    "id": 713,
     "company": "4Dreams OÜ",
     "code": 14140124,
     "active": "Registrisse kantud",
@@ -4998,6 +5713,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 714,
     "company": "4D TECH OÜ",
     "code": 12795507,
     "active": "Registrisse kantud",
@@ -5005,6 +5721,7 @@
     "city": "Hiiumaa vald"
   },
   {
+    "id": 715,
     "company": "4 Earth OÜ",
     "code": 14676155,
     "active": "Registrisse kantud",
@@ -5012,6 +5729,7 @@
     "city": "Haapsalu linn"
   },
   {
+    "id": 716,
     "company": "4Enjoy OÜ",
     "code": 14346340,
     "active": "Registrisse kantud",
@@ -5019,6 +5737,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 717,
     "company": "4EST EXPERT OÜ",
     "code": 14679679,
     "active": "Registrisse kantud",
@@ -5026,6 +5745,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 718,
     "company": "4est Floors Group OÜ",
     "code": 14673151,
     "active": "Registrisse kantud",
@@ -5033,6 +5753,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 719,
     "company": "4est Floors OÜ",
     "code": 14193907,
     "active": "Registrisse kantud",
@@ -5040,6 +5761,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 720,
     "company": "4Family OÜ",
     "code": 14235907,
     "active": "Registrisse kantud",
@@ -5047,6 +5769,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 721,
     "company": "4globe OÜ",
     "code": 12414126,
     "active": "Registrisse kantud",
@@ -5054,6 +5777,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 722,
     "company": "4 Good Men OÜ",
     "code": 12210056,
     "active": "Registrisse kantud",
@@ -5061,6 +5785,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 723,
     "company": "4Group OÜ",
     "code": 12872685,
     "active": "Registrisse kantud",
@@ -5068,6 +5793,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 724,
     "company": "4G Teenused UÜ",
     "code": 12923454,
     "active": "Registrisse kantud",
@@ -5075,6 +5801,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 725,
     "company": "4Hair OÜ",
     "code": 12833126,
     "active": "Registrisse kantud",
@@ -5082,6 +5809,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 726,
     "company": "4Hands OÜ",
     "code": 14393003,
     "active": "Registrisse kantud",
@@ -5089,6 +5817,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 727,
     "company": "4H CAPITALS OÜ",
     "code": 14868558,
     "active": "Registrisse kantud",
@@ -5096,6 +5825,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 728,
     "company": "4ire DApps OÜ",
     "code": 14685303,
     "active": "Registrisse kantud",
@@ -5103,6 +5833,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 729,
     "company": "4it OÜ",
     "code": 14103264,
     "active": "Registrisse kantud",
@@ -5110,6 +5841,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 730,
     "company": "4K Ehitus OÜ",
     "code": 12679221,
     "active": "Registrisse kantud",
@@ -5117,6 +5849,7 @@
     "city": "Saku vald"
   },
   {
+    "id": 731,
     "company": "4K Estflix OÜ",
     "code": 12757754,
     "active": "Registrisse kantud",
@@ -5124,6 +5857,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 732,
     "company": "4Kids OÜ",
     "code": 11432895,
     "active": "Registrisse kantud",
@@ -5131,6 +5865,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 733,
     "company": "4 KINGS OÜ",
     "code": 12950468,
     "active": "Registrisse kantud",
@@ -5138,6 +5873,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 734,
     "company": "4 K OÜ",
     "code": 12652392,
     "active": "Registrisse kantud",
@@ -5145,6 +5881,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 735,
     "company": "4K Partnerid OÜ",
     "code": 12945579,
     "active": "Registrisse kantud",
@@ -5152,6 +5889,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 736,
     "company": "4K Rental Solutions OÜ",
     "code": 14891273,
     "active": "Registrisse kantud",
@@ -5159,6 +5897,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 737,
     "company": "4KR OÜ",
     "code": 12935842,
     "active": "Registrisse kantud",
@@ -5166,6 +5905,7 @@
     "city": "Lääne-Nigula vald"
   },
   {
+    "id": 738,
     "company": "4 Käppa Kaubandus OÜ",
     "code": 14297357,
     "active": "Registrisse kantud",
@@ -5173,6 +5913,7 @@
     "city": "Saaremaa vald"
   },
   {
+    "id": 739,
     "company": "4Lifealert OÜ",
     "code": 14535992,
     "active": "Registrisse kantud",
@@ -5180,6 +5921,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 740,
     "company": "4Mation OÜ",
     "code": 14145305,
     "active": "Registrisse kantud",
@@ -5187,6 +5929,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 741,
     "company": "4Meca OÜ",
     "code": 12641974,
     "active": "Registrisse kantud",
@@ -5194,6 +5937,7 @@
     "city": "Rae vald"
   },
   {
+    "id": 742,
     "company": "4M EESTI OÜ",
     "code": 14799188,
     "active": "Registrisse kantud",
@@ -5201,6 +5945,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 743,
     "company": "4metres OÜ",
     "code": 14226251,
     "active": "Registrisse kantud",
@@ -5208,6 +5953,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 744,
     "company": "4MICE OÜ",
     "code": 14569590,
     "active": "Registrisse kantud",
@@ -5215,6 +5961,7 @@
     "city": "Harju maakond"
   },
   {
+    "id": 745,
     "company": "4Minds OÜ",
     "code": 14483657,
     "active": "Registrisse kantud",
@@ -5222,6 +5969,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 746,
     "company": "4MyCredo OÜ",
     "code": 14594747,
     "active": "Registrisse kantud",
@@ -5229,6 +5977,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 747,
     "company": "4Nature Energy Ltd OÜ",
     "code": 14521197,
     "active": "Registrisse kantud",
@@ -5236,6 +5985,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 748,
     "company": "4Nature Group OÜ",
     "code": 12225266,
     "active": "Registrisse kantud",
@@ -5243,6 +5993,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 749,
     "company": "4Nm Garage OÜ",
     "code": 14497441,
     "active": "Registrisse kantud",
@@ -5250,6 +6001,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 750,
     "company": "4orBuy OÜ",
     "code": 11926396,
     "active": "Registrisse kantud",
@@ -5257,6 +6009,7 @@
     "city": "Paide linn"
   },
   {
+    "id": 751,
     "company": "4Partner OÜ",
     "code": 11440311,
     "active": "Registrisse kantud",
@@ -5264,6 +6017,7 @@
     "city": "Kanepi vald"
   },
   {
+    "id": 752,
     "company": "4PARTSTRADE COMPANY OÜ",
     "code": 14364705,
     "active": "Registrisse kantud",
@@ -5271,6 +6025,7 @@
     "city": ""
   },
   {
+    "id": 753,
     "company": "4P Energia OÜ",
     "code": 14161712,
     "active": "Registrisse kantud",
@@ -5278,6 +6033,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 754,
     "company": "4people OÜ",
     "code": 12671515,
     "active": "Registrisse kantud",
@@ -5285,6 +6041,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 755,
     "company": "4PIR OÜ",
     "code": 14352642,
     "active": "Registrisse kantud",
@@ -5292,6 +6049,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 756,
     "company": "4PL Logistics OÜ",
     "code": 14781610,
     "active": "Registrisse kantud",
@@ -5299,6 +6057,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 757,
     "company": "4PRINT OÜ",
     "code": 14534981,
     "active": "Registrisse kantud",
@@ -5306,6 +6065,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 758,
     "company": "4Project OÜ",
     "code": 11251426,
     "active": "Registrisse kantud",
@@ -5313,6 +6073,7 @@
     "city": "Saue vald"
   },
   {
+    "id": 759,
     "company": "4PS OÜ",
     "code": 12399527,
     "active": "Registrisse kantud",
@@ -5320,6 +6081,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 760,
     "company": "4rainforest OÜ",
     "code": 14753529,
     "active": "Registrisse kantud",
@@ -5327,6 +6089,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 761,
     "company": "4rent Estonia OÜ",
     "code": 14224074,
     "active": "Registrisse kantud",
@@ -5334,6 +6097,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 762,
     "company": "4ROOM Interior OÜ",
     "code": 14702266,
     "active": "Registrisse kantud",
@@ -5341,6 +6105,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 763,
     "company": "4ROOM OÜ",
     "code": 10961338,
     "active": "Registrisse kantud",
@@ -5348,6 +6113,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 764,
     "company": "4R Residence OÜ",
     "code": 14490574,
     "active": "Registrisse kantud",
@@ -5355,6 +6121,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 765,
     "company": "4RUM OÜ",
     "code": 14389527,
     "active": "Registrisse kantud",
@@ -5362,6 +6129,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 766,
     "company": "4Rõngast OÜ",
     "code": 14791749,
     "active": "Registrisse kantud",
@@ -5369,6 +6137,7 @@
     "city": "Pärnu linn"
   },
   {
+    "id": 767,
     "company": "4Sale OÜ",
     "code": 12976918,
     "active": "Registrisse kantud",
@@ -5376,6 +6145,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 768,
     "company": "4salutem OÜ",
     "code": 14620410,
     "active": "Registrisse kantud",
@@ -5383,6 +6153,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 769,
     "company": "4SD OÜ",
     "code": 14713465,
     "active": "Registrisse kantud",
@@ -5390,6 +6161,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 770,
     "company": "4 SEASONS OÜ",
     "code": 11581342,
     "active": "Registrisse kantud",
@@ -5397,6 +6169,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 771,
     "company": "4Seina Haldus OÜ",
     "code": 11398773,
     "active": "Registrisse kantud",
@@ -5404,6 +6177,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 772,
     "company": "4SEINA OÜ",
     "code": 11310726,
     "active": "Registrisse kantud",
@@ -5411,6 +6185,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 773,
     "company": "4Sezona OÜ",
     "code": 12595978,
     "active": "Registrisse kantud",
@@ -5418,6 +6193,7 @@
     "city": "Lüganuse vald"
   },
   {
+    "id": 774,
     "company": "4-Sever OÜ",
     "code": 14554021,
     "active": "Registrisse kantud",
@@ -5425,6 +6201,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 775,
     "company": "4Sign OÜ",
     "code": 12086461,
     "active": "Registrisse kantud",
@@ -5432,6 +6209,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 776,
     "company": "4 Sisters OÜ",
     "code": 12000361,
     "active": "Registrisse kantud",
@@ -5439,6 +6217,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 777,
     "company": "4 smart OÜ",
     "code": 12321301,
     "active": "Registrisse kantud",
@@ -5446,6 +6225,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 778,
     "company": "4Sport OÜ",
     "code": 11294683,
     "active": "Registrisse kantud",
@@ -5453,6 +6233,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 779,
     "company": "4Sport Solutions OÜ",
     "code": 12350490,
     "active": "Registrisse kantud",
@@ -5460,6 +6241,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 780,
     "company": "4 STE HOUSES OÜ",
     "code": 12731192,
     "active": "Registrisse kantud",
@@ -5467,6 +6249,7 @@
     "city": "Rapla vald"
   },
   {
+    "id": 781,
     "company": "4Steps Group OÜ",
     "code": 11925847,
     "active": "Registrisse kantud",
@@ -5474,6 +6257,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 782,
     "company": "4Steps Metall OÜ",
     "code": 12460505,
     "active": "Registrisse kantud",
@@ -5481,6 +6265,7 @@
     "city": "Ida-Viru maakond"
   },
   {
+    "id": 783,
     "company": "4style OÜ",
     "code": 12192080,
     "active": "Registrisse kantud",
@@ -5488,6 +6273,7 @@
     "city": "Kambja vald"
   },
   {
+    "id": 784,
     "company": "4S Viimistlus OÜ",
     "code": 14812397,
     "active": "Registrisse kantud",
@@ -5495,6 +6281,7 @@
     "city": "Setomaa vald"
   },
   {
+    "id": 785,
     "company": "4Takti OÜ",
     "code": 14485662,
     "active": "Registrisse kantud",
@@ -5502,6 +6289,7 @@
     "city": "Haapsalu linn"
   },
   {
+    "id": 786,
     "company": "4 Teams OÜ",
     "code": 11976112,
     "active": "Registrisse kantud",
@@ -5509,6 +6297,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 787,
     "company": "4th Dimension Consulting OÜ",
     "code": 14141655,
     "active": "Registrisse kantud",
@@ -5516,6 +6305,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 788,
     "company": "4Times Capital AS",
     "code": 12263609,
     "active": "Registrisse kantud",
@@ -5523,6 +6313,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 789,
     "company": "4T OÜ",
     "code": 12043635,
     "active": "Registrisse kantud",
@@ -5530,6 +6321,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 790,
     "company": "4 Trade LPS OÜ",
     "code": 14054809,
     "active": "Registrisse kantud",
@@ -5537,6 +6329,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 791,
     "company": "4Trade OÜ",
     "code": 14443698,
     "active": "Registrisse kantud",
@@ -5544,6 +6337,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 792,
     "company": "4trends OÜ",
     "code": 12893061,
     "active": "Registrisse kantud",
@@ -5551,6 +6345,7 @@
     "city": "Nõo vald"
   },
   {
+    "id": 793,
     "company": "4Tuna OÜ",
     "code": 14773496,
     "active": "Registrisse kantud",
@@ -5558,6 +6353,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 794,
     "company": "4types Communications OÜ",
     "code": 14275054,
     "active": "Registrisse kantud",
@@ -5565,6 +6361,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 795,
     "company": "4Ucar OÜ",
     "code": 14769827,
     "active": "Registrisse kantud",
@@ -5572,6 +6369,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 796,
     "company": "4U does IT OÜ",
     "code": 14183464,
     "active": "Registrisse kantud",
@@ -5579,6 +6377,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 797,
     "company": "4U KINNISVARA OÜ",
     "code": 12724631,
     "active": "Registrisse kantud",
@@ -5586,6 +6385,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 798,
     "company": "4U Logistics OÜ",
     "code": 11518177,
     "active": "Registrisse kantud",
@@ -5593,6 +6393,7 @@
     "city": "Jõelähtme vald"
   },
   {
+    "id": 799,
     "company": "4U OÜ",
     "code": 11009866,
     "active": "Registrisse kantud",
@@ -5600,6 +6401,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 800,
     "company": "4US OÜ",
     "code": 12482352,
     "active": "Registrisse kantud",
@@ -5607,6 +6409,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 801,
     "company": "4Walls OÜ",
     "code": 11922621,
     "active": "Registrisse kantud",
@@ -5614,6 +6417,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 802,
     "company": "4Ward OÜ",
     "code": 14818543,
     "active": "Registrisse kantud",
@@ -5621,6 +6425,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 803,
     "company": "4WAY OÜ",
     "code": 11893515,
     "active": "Registrisse kantud",
@@ -5628,6 +6433,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 804,
     "company": "4 Vedu OÜ",
     "code": 14169100,
     "active": "Registrisse kantud",
@@ -5635,6 +6441,7 @@
     "city": "Lääne-Nigula vald"
   },
   {
+    "id": 805,
     "company": "4V Ehitus OÜ",
     "code": 14827565,
     "active": "Registrisse kantud",
@@ -5642,6 +6449,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 806,
     "company": "4Wheels OÜ",
     "code": 11425211,
     "active": "Pankrotis",
@@ -5649,6 +6457,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 807,
     "company": "4VOST OÜ",
     "code": 14258475,
     "active": "Registrisse kantud",
@@ -5656,6 +6465,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 808,
     "company": "4V Rent OÜ",
     "code": 14817472,
     "active": "Registrisse kantud",
@@ -5663,6 +6473,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 809,
     "company": "4x4 Alakomitee",
     "code": 80216205,
     "active": "Registrisse kantud",
@@ -5670,6 +6481,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 810,
     "company": "4x4Gaming OÜ",
     "code": 12958808,
     "active": "Registrisse kantud",
@@ -5677,6 +6489,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 811,
     "company": "4x4 klubi 1 Hobujõud",
     "code": 80343553,
     "active": "Registrisse kantud",
@@ -5684,6 +6497,7 @@
     "city": "Rakvere vald"
   },
   {
+    "id": 812,
     "company": "4you Consulting OÜ",
     "code": 14560122,
     "active": "Registrisse kantud",
@@ -5691,6 +6505,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 813,
     "company": "4you Trans OÜ",
     "code": 14588907,
     "active": "Registrisse kantud",
@@ -5698,6 +6513,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 814,
     "company": "500 Miles Investments OÜ",
     "code": 14280836,
     "active": "Registrisse kantud",
@@ -5705,6 +6521,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 815,
     "company": "50 Inch OÜ",
     "code": 14330304,
     "active": "Registrisse kantud",
@@ -5712,6 +6529,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 816,
     "company": "50LUTION Marketing & Sales OÜ",
     "code": 14698277,
     "active": "Registrisse kantud",
@@ -5719,6 +6537,7 @@
     "city": ""
   },
   {
+    "id": 817,
     "company": "50pluss Klubi",
     "code": 80278985,
     "active": "Likvideerimisel",
@@ -5726,6 +6545,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 818,
     "company": "50 Square OÜ",
     "code": 12629499,
     "active": "Registrisse kantud",
@@ -5733,6 +6553,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 819,
     "company": "50TON OÜ",
     "code": 14808088,
     "active": "Registrisse kantud",
@@ -5740,6 +6561,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 820,
     "company": "5/28 Management OÜ",
     "code": 14924951,
     "active": "Registrisse kantud",
@@ -5747,6 +6569,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 821,
     "company": "52Hours OÜ",
     "code": 14317309,
     "active": "Registrisse kantud",
@@ -5754,6 +6577,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 822,
     "company": "52kaarti OÜ",
     "code": 14414277,
     "active": "Registrisse kantud",
@@ -5761,6 +6585,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 823,
     "company": "53 kraadi OÜ",
     "code": 14753909,
     "active": "Registrisse kantud",
@@ -5768,6 +6593,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 824,
     "company": "5.50 OÜ",
     "code": 12714182,
     "active": "Registrisse kantud",
@@ -5775,6 +6601,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 825,
     "company": "5546666 UÜ",
     "code": 12591147,
     "active": "Registrisse kantud",
@@ -5782,6 +6609,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 826,
     "company": "555566221 OÜ",
     "code": 12111443,
     "active": "Registrisse kantud",
@@ -5789,6 +6617,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 827,
     "company": "555 OÜ",
     "code": 12671142,
     "active": "Registrisse kantud",
@@ -5796,6 +6625,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 828,
     "company": "55-SPORT mittetulundusühing",
     "code": 80356521,
     "active": "Registrisse kantud",
@@ -5803,6 +6633,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 829,
     "company": "56DB OÜ",
     "code": 14233088,
     "active": "Registrisse kantud",
@@ -5810,6 +6641,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 830,
     "company": "56TOM & CO OÜ",
     "code": 14535199,
     "active": "Registrisse kantud",
@@ -5817,6 +6649,7 @@
     "city": "Saaremaa vald"
   },
   {
+    "id": 831,
     "company": "57Studio OÜ",
     "code": 14548210,
     "active": "Registrisse kantud",
@@ -5824,6 +6657,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 832,
     "company": "58N Services OÜ",
     "code": 14759591,
     "active": "Registrisse kantud",
@@ -5831,6 +6665,7 @@
     "city": ""
   },
   {
+    "id": 833,
     "company": "5A2 OÜ",
     "code": 14783738,
     "active": "Registrisse kantud",
@@ -5838,6 +6673,7 @@
     "city": "Vinni vald"
   },
   {
+    "id": 834,
     "company": "5A OÜ",
     "code": 12921886,
     "active": "Registrisse kantud",
@@ -5845,6 +6681,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 835,
     "company": "5+ Autoteenindus OÜ",
     "code": 11981320,
     "active": "Registrisse kantud",
@@ -5852,6 +6689,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 836,
     "company": "5ax CNC Baltic OÜ",
     "code": 14215141,
     "active": "Registrisse kantud",
@@ -5859,6 +6697,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 837,
     "company": "5+ Capital OÜ",
     "code": 11642434,
     "active": "Registrisse kantud",
@@ -5866,6 +6705,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 838,
     "company": "5+Company OÜ",
     "code": 14380609,
     "active": "Registrisse kantud",
@@ -5873,6 +6713,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 839,
     "company": "5CORE OÜ",
     "code": 12622675,
     "active": "Registrisse kantud",
@@ -5880,6 +6721,7 @@
     "city": "Rae vald"
   },
   {
+    "id": 840,
     "company": "5C's Kids Club OÜ",
     "code": 14550951,
     "active": "Registrisse kantud",
@@ -5887,6 +6729,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 841,
     "company": "5D Earth OÜ",
     "code": 12856002,
     "active": "Registrisse kantud",
@@ -5894,6 +6737,7 @@
     "city": "Ida-Viru maakond"
   },
   {
+    "id": 842,
     "company": "5D GROUP OÜ",
     "code": 11507067,
     "active": "Registrisse kantud",
@@ -5901,6 +6745,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 843,
     "company": "5D OÜ",
     "code": 14634949,
     "active": "Registrisse kantud",
@@ -5908,6 +6753,7 @@
     "city": "Lüganuse vald"
   },
   {
+    "id": 844,
     "company": "5D Production OÜ",
     "code": 11898754,
     "active": "Registrisse kantud",
@@ -5915,6 +6761,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 845,
     "company": "5D Vision OÜ",
     "code": 10606206,
     "active": "Registrisse kantud",
@@ -5922,6 +6769,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 846,
     "company": "5 Elementi OÜ",
     "code": 12840047,
     "active": "Registrisse kantud",
@@ -5929,6 +6777,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 847,
     "company": "5EMK RAIETÖÖD OÜ",
     "code": 14577654,
     "active": "Registrisse kantud",
@@ -5936,6 +6785,7 @@
     "city": "Peipsiääre vald"
   },
   {
+    "id": 848,
     "company": "5+Expert OÜ",
     "code": 12763387,
     "active": "Registrisse kantud",
@@ -5943,6 +6793,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 849,
     "company": "5+Garant OÜ",
     "code": 14418387,
     "active": "Registrisse kantud",
@@ -5950,6 +6801,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 850,
     "company": "5G Logistics OÜ",
     "code": 14213596,
     "active": "Registrisse kantud",
@@ -5957,6 +6809,7 @@
     "city": "Viimsi vald"
   },
   {
+    "id": 851,
     "company": "5+ Invest OÜ",
     "code": 11947530,
     "active": "Registrisse kantud",
@@ -5964,6 +6817,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 852,
     "company": "5J1J Osaühing",
     "code": 14473771,
     "active": "Registrisse kantud",
@@ -5971,6 +6825,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 853,
     "company": "5K Group OÜ",
     "code": 12495900,
     "active": "Registrisse kantud",
@@ -5978,6 +6833,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 854,
     "company": "5K MTÜ",
     "code": 80101689,
     "active": "Registrisse kantud",
@@ -5985,6 +6841,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 855,
     "company": "5+ Masters OÜ",
     "code": 12024253,
     "active": "Registrisse kantud",
@@ -5992,6 +6849,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 856,
     "company": "5M Solutions OÜ",
     "code": 14104720,
     "active": "Registrisse kantud",
@@ -5999,6 +6857,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 857,
     "company": "5Pack OÜ",
     "code": 14847378,
     "active": "Registrisse kantud",
@@ -6006,6 +6865,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 858,
     "company": "5plus1 OÜ",
     "code": 14440027,
     "active": "Registrisse kantud",
@@ -6013,6 +6873,7 @@
     "city": "Kuusalu vald"
   },
   {
+    "id": 859,
     "company": "5Pluss Auto OÜ",
     "code": 14160517,
     "active": "Registrisse kantud",
@@ -6020,6 +6881,7 @@
     "city": "Pärnu linn"
   },
   {
+    "id": 860,
     "company": "5 Pluss Kinnisvarabüroo OÜ",
     "code": 12912769,
     "active": "Registrisse kantud",
@@ -6027,6 +6889,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 861,
     "company": "5 Point Consulting OÜ",
     "code": 14074611,
     "active": "Registrisse kantud",
@@ -6034,6 +6897,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 862,
     "company": "5+power UÜ",
     "code": 14896460,
     "active": "Registrisse kantud",
@@ -6041,6 +6905,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 863,
     "company": "5sails OÜ",
     "code": 14005320,
     "active": "Registrisse kantud",
@@ -6048,6 +6913,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 864,
     "company": "5+ Service OÜ",
     "code": 11621354,
     "active": "Registrisse kantud",
@@ -6055,6 +6921,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 865,
     "company": "5 Star Project OÜ",
     "code": 14155864,
     "active": "Likvideerimisel",
@@ -6062,6 +6929,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 866,
     "company": "5stars OÜ",
     "code": 12962520,
     "active": "Registrisse kantud",
@@ -6069,6 +6937,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 867,
     "company": "5starUnity Europe OÜ",
     "code": 14798622,
     "active": "Registrisse kantud",
@@ -6076,6 +6945,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 868,
     "company": "5+Team OÜ",
     "code": 14285259,
     "active": "Registrisse kantud",
@@ -6083,6 +6953,7 @@
     "city": "Hiiumaa vald"
   },
   {
+    "id": 869,
     "company": "5+ Teenused osaühing",
     "code": 11607828,
     "active": "Registrisse kantud",
@@ -6090,6 +6961,7 @@
     "city": "Saku vald"
   },
   {
+    "id": 870,
     "company": "5T Haldus OÜ",
     "code": 14455833,
     "active": "Registrisse kantud",
@@ -6097,6 +6969,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 871,
     "company": "5T Ohutuse OÜ",
     "code": 12347111,
     "active": "Registrisse kantud",
@@ -6104,6 +6977,7 @@
     "city": "Kiili vald"
   },
   {
+    "id": 872,
     "company": "5T Õppekeskus OÜ",
     "code": 12859408,
     "active": "Registrisse kantud",
@@ -6111,6 +6985,7 @@
     "city": "Kiili vald"
   },
   {
+    "id": 873,
     "company": "5Uba OÜ",
     "code": 14014075,
     "active": "Registrisse kantud",
@@ -6118,6 +6993,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 874,
     "company": "5+work OÜ",
     "code": 14293112,
     "active": "Registrisse kantud",
@@ -6125,6 +7001,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 875,
     "company": "6020 peaks OÜ",
     "code": 14390743,
     "active": "Registrisse kantud",
@@ -6132,6 +7009,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 876,
     "company": "6060 OÜ",
     "code": 14812026,
     "active": "Registrisse kantud",
@@ -6139,6 +7017,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 877,
     "company": "60 Seconds OÜ",
     "code": 11466090,
     "active": "Registrisse kantud",
@@ -6146,6 +7025,7 @@
     "city": "Kuusalu vald"
   },
   {
+    "id": 878,
     "company": "613Supply OÜ",
     "code": 14727444,
     "active": "Registrisse kantud",
@@ -6153,6 +7033,7 @@
     "city": "Kuusalu vald"
   },
   {
+    "id": 879,
     "company": "64International OÜ",
     "code": 14436868,
     "active": "Registrisse kantud",
@@ -6160,6 +7041,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 880,
     "company": "65+ OÜ",
     "code": 11201463,
     "active": "Registrisse kantud",
@@ -6167,6 +7049,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 881,
     "company": "666.AG OÜ",
     "code": 14675871,
     "active": "Registrisse kantud",
@@ -6174,6 +7057,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 882,
     "company": "66R OÜ",
     "code": 14514375,
     "active": "Registrisse kantud",
@@ -6181,6 +7065,7 @@
     "city": ""
   },
   {
+    "id": 883,
     "company": "6AE Logistic OÜ",
     "code": 14825425,
     "active": "Registrisse kantud",
@@ -6188,6 +7073,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 884,
     "company": "6arz OÜ",
     "code": 14606864,
     "active": "Registrisse kantud",
@@ -6195,6 +7081,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 885,
     "company": "6A TRANSPORT OÜ",
     "code": 14690907,
     "active": "Registrisse kantud",
@@ -6202,6 +7089,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 886,
     "company": "6B Grupp OÜ",
     "code": 14426048,
     "active": "Registrisse kantud",
@@ -6209,6 +7097,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 887,
     "company": "6D Kino OÜ",
     "code": 12471495,
     "active": "Registrisse kantud",
@@ -6216,6 +7105,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 888,
     "company": "6.exchange OÜ",
     "code": 14914577,
     "active": "Registrisse kantud",
@@ -6223,6 +7113,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 889,
     "company": "6fsinvestments OÜ",
     "code": 14752896,
     "active": "Registrisse kantud",
@@ -6230,6 +7121,7 @@
     "city": ""
   },
   {
+    "id": 890,
     "company": "6ik Group OÜ",
     "code": 12135745,
     "active": "Registrisse kantud",
@@ -6237,6 +7129,7 @@
     "city": "Jõelähtme vald"
   },
   {
+    "id": 891,
     "company": "6K Invest OÜ",
     "code": 14606901,
     "active": "Registrisse kantud",
@@ -6244,6 +7137,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 892,
     "company": "6 kraadi OÜ",
     "code": 14753832,
     "active": "Registrisse kantud",
@@ -6251,6 +7145,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 893,
     "company": "6lehoovimajaprojekt OÜ",
     "code": 14863549,
     "active": "Registrisse kantud",
@@ -6258,6 +7153,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 894,
     "company": "6nnekas OÜ",
     "code": 12555832,
     "active": "Registrisse kantud",
@@ -6265,6 +7161,7 @@
     "city": "Kambja vald"
   },
   {
+    "id": 895,
     "company": "6Sense OÜ",
     "code": 14387126,
     "active": "Registrisse kantud",
@@ -6272,6 +7169,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 896,
     "company": "6THC OÜ",
     "code": 14371734,
     "active": "Registrisse kantud",
@@ -6279,6 +7177,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 897,
     "company": "6 Tiigrit OÜ",
     "code": 12529192,
     "active": "Registrisse kantud",
@@ -6286,6 +7185,7 @@
     "city": "Harju maakond"
   },
   {
+    "id": 898,
     "company": "6xS Real OÜ",
     "code": 11461276,
     "active": "Registrisse kantud",
@@ -6293,6 +7193,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 899,
     "company": "7102 OÜ",
     "code": 12440980,
     "active": "Registrisse kantud",
@@ -6300,6 +7201,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 900,
     "company": "720 KRAADI OÜ",
     "code": 12474525,
     "active": "Registrisse kantud",
@@ -6307,6 +7209,7 @@
     "city": "Võru maakond"
   },
   {
+    "id": 901,
     "company": "7.21 Lab OÜ",
     "code": 12588487,
     "active": "Registrisse kantud",
@@ -6314,6 +7217,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 902,
     "company": "737Simulators OÜ",
     "code": 14853574,
     "active": "Registrisse kantud",
@@ -6321,6 +7225,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 903,
     "company": "73 St. OÜ",
     "code": 14309920,
     "active": "Registrisse kantud",
@@ -6328,6 +7233,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 904,
     "company": "742 Time OÜ",
     "code": 12884642,
     "active": "Registrisse kantud",
@@ -6335,6 +7241,7 @@
     "city": "Põlva vald"
   },
   {
+    "id": 905,
     "company": "74EMC investments OÜ",
     "code": 14237042,
     "active": "Registrisse kantud",
@@ -6342,6 +7249,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 906,
     "company": "75cl Osaühing",
     "code": 11407972,
     "active": "Registrisse kantud",
@@ -6349,6 +7257,7 @@
     "city": "Tartu vald"
   },
   {
+    "id": 907,
     "company": "76Capital OÜ",
     "code": 12857869,
     "active": "Registrisse kantud",
@@ -6356,6 +7265,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 908,
     "company": "777 ERI Kinnisvara OÜ",
     "code": 14443764,
     "active": "Registrisse kantud",
@@ -6363,6 +7273,7 @@
     "city": "Ida-Viru maakond"
   },
   {
+    "id": 909,
     "company": "777 OÜ",
     "code": 12962425,
     "active": "Registrisse kantud",
@@ -6370,6 +7281,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 910,
     "company": "77ArtDesign OÜ",
     "code": 14737282,
     "active": "Registrisse kantud",
@@ -6377,6 +7289,7 @@
     "city": "Kuusalu vald"
   },
   {
+    "id": 911,
     "company": 7,
     "code": "7 OÜ",
     "active": "R",
@@ -6384,6 +7297,7 @@
     "city": "Moori küla"
   },
   {
+    "id": 912,
     "company": "78 Rocks Holdings OÜ",
     "code": 14869871,
     "active": "Registrisse kantud",
@@ -6391,6 +7305,7 @@
     "city": ""
   },
   {
+    "id": 913,
     "company": "7Beauty OÜ",
     "code": 14310224,
     "active": "Registrisse kantud",
@@ -6398,6 +7313,7 @@
     "city": "Haapsalu linn"
   },
   {
+    "id": 914,
     "company": "7 Blaze OÜ",
     "code": 12130370,
     "active": "Registrisse kantud",
@@ -6405,6 +7321,7 @@
     "city": "Saaremaa vald"
   },
   {
+    "id": 915,
     "company": "7 Brows Studio OÜ",
     "code": 14742975,
     "active": "Registrisse kantud",
@@ -6412,6 +7329,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 916,
     "company": "7COIN INVEST OÜ",
     "code": 11259072,
     "active": "Registrisse kantud",
@@ -6419,6 +7337,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 917,
     "company": "7colors OÜ",
     "code": 14485998,
     "active": "Registrisse kantud",
@@ -6426,6 +7345,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 918,
     "company": "7CS OÜ",
     "code": 14220797,
     "active": "Registrisse kantud",
@@ -6433,6 +7353,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 919,
     "company": "7detaili OÜ",
     "code": 14162321,
     "active": "Registrisse kantud",
@@ -6440,6 +7361,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 920,
     "company": "7Dimensions OÜ",
     "code": 14770084,
     "active": "Registrisse kantud",
@@ -6447,6 +7369,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 921,
     "company": "7D OÜ",
     "code": 12342763,
     "active": "Registrisse kantud",
@@ -6454,6 +7377,7 @@
     "city": "Kuusalu vald"
   },
   {
+    "id": 922,
     "company": "7EHITUS OÜ",
     "code": 14503650,
     "active": "Registrisse kantud",
@@ -6461,6 +7385,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 923,
     "company": "7ELEMENT OÜ",
     "code": 11181453,
     "active": "Registrisse kantud",
@@ -6468,6 +7393,7 @@
     "city": "Saue vald"
   },
   {
+    "id": 924,
     "company": "7EVEN HILLS OÜ",
     "code": 14086494,
     "active": "Registrisse kantud",
@@ -6475,6 +7401,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 925,
     "company": "7 Figures OÜ",
     "code": 14315718,
     "active": "Registrisse kantud",
@@ -6482,6 +7409,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 926,
     "company": "7Finance OÜ",
     "code": 11677740,
     "active": "Registrisse kantud",
@@ -6489,6 +7417,7 @@
     "city": "Raasiku vald"
   },
   {
+    "id": 927,
     "company": "7 floor OÜ",
     "code": 14079560,
     "active": "Registrisse kantud",
@@ -6496,6 +7425,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 928,
     "company": "7 Flows OÜ",
     "code": 14208158,
     "active": "Registrisse kantud",
@@ -6503,6 +7433,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 929,
     "company": "7foots OÜ",
     "code": 11885711,
     "active": "Registrisse kantud",
@@ -6510,6 +7441,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 930,
     "company": "7H Eesti OÜ",
     "code": 10576161,
     "active": "Likvideerimisel",
@@ -6517,6 +7449,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 931,
     "company": "7HETKE OÜ",
     "code": 12754106,
     "active": "Registrisse kantud",
@@ -6524,6 +7457,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 932,
     "company": "7Kinnisvara Partnerid OÜ",
     "code": 12550987,
     "active": "Registrisse kantud",
@@ -6531,6 +7465,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 933,
     "company": "7 Kitsetalle OÜ",
     "code": 12971660,
     "active": "Registrisse kantud",
@@ -6538,6 +7473,7 @@
     "city": "Türi vald"
   },
   {
+    "id": 934,
     "company": "7 kuud OÜ",
     "code": 11439992,
     "active": "Registrisse kantud",
@@ -6545,6 +7481,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 935,
     "company": "7käiku OÜ",
     "code": 12952007,
     "active": "Registrisse kantud",
@@ -6552,6 +7489,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 936,
     "company": "7Lavella OÜ",
     "code": 14611693,
     "active": "Registrisse kantud",
@@ -6559,6 +7497,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 937,
     "company": "7Markets OÜ",
     "code": 14141684,
     "active": "Registrisse kantud",
@@ -6566,6 +7505,7 @@
     "city": "Kambja vald"
   },
   {
+    "id": 938,
     "company": "7 Moaid OÜ",
     "code": 14454673,
     "active": "Registrisse kantud",
@@ -6573,6 +7513,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 939,
     "company": "7NS Digital Agency OÜ",
     "code": 14147356,
     "active": "Registrisse kantud",
@@ -6580,6 +7521,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 940,
     "company": "7ok OÜ",
     "code": 14784947,
     "active": "Registrisse kantud",
@@ -6587,6 +7529,7 @@
     "city": "Pärnu linn"
   },
   {
+    "id": 941,
     "company": "7Plus OÜ",
     "code": 10824535,
     "active": "Registrisse kantud",
@@ -6594,6 +7537,7 @@
     "city": "Otepää vald"
   },
   {
+    "id": 942,
     "company": "7 rings OÜ",
     "code": 12488107,
     "active": "Registrisse kantud",
@@ -6601,6 +7545,7 @@
     "city": "Rõuge vald"
   },
   {
+    "id": 943,
     "company": "7 Seemet OÜ",
     "code": 12383489,
     "active": "Registrisse kantud",
@@ -6608,6 +7553,7 @@
     "city": "Saue vald"
   },
   {
+    "id": 944,
     "company": "7Signals OÜ",
     "code": 14358863,
     "active": "Registrisse kantud",
@@ -6615,6 +7561,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 945,
     "company": "7Sky Group OÜ",
     "code": 12758802,
     "active": "Registrisse kantud",
@@ -6622,6 +7569,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 946,
     "company": "7Souls OÜ",
     "code": 12979874,
     "active": "Registrisse kantud",
@@ -6629,6 +7577,7 @@
     "city": "Pärnu linn"
   },
   {
+    "id": 947,
     "company": "7T Invest OÜ",
     "code": 12300380,
     "active": "Registrisse kantud",
@@ -6636,6 +7585,7 @@
     "city": "Põltsamaa vald"
   },
   {
+    "id": 948,
     "company": "7Ways OÜ",
     "code": 11332797,
     "active": "Registrisse kantud",
@@ -6643,6 +7593,7 @@
     "city": ""
   },
   {
+    "id": 949,
     "company": "7WebPages OÜ",
     "code": 12526256,
     "active": "Registrisse kantud",
@@ -6650,6 +7601,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 950,
     "company": "7Wednesday OÜ",
     "code": 14444930,
     "active": "Registrisse kantud",
@@ -6657,6 +7609,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 951,
     "company": "7ürti OÜ",
     "code": 14027876,
     "active": "Registrisse kantud",
@@ -6664,6 +7617,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 952,
     "company": "80/20 Publishing OÜ",
     "code": 14218926,
     "active": "Registrisse kantud",
@@ -6671,6 +7625,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 953,
     "company": "808 KSK grupp OÜ",
     "code": 14781455,
     "active": "Registrisse kantud",
@@ -6678,6 +7633,7 @@
     "city": "Viimsi vald"
   },
   {
+    "id": 954,
     "company": "818 Capital OÜ",
     "code": 14183180,
     "active": "Registrisse kantud",
@@ -6685,6 +7641,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 955,
     "company": "818 OÜ",
     "code": 14705690,
     "active": "Registrisse kantud",
@@ -6692,6 +7649,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 956,
     "company": "8192 OÜ",
     "code": 14878628,
     "active": "Registrisse kantud",
@@ -6699,6 +7657,7 @@
     "city": "Kuusalu vald"
   },
   {
+    "id": 957,
     "company": "81 Holding OÜ",
     "code": 14243166,
     "active": "Registrisse kantud",
@@ -6706,6 +7665,7 @@
     "city": "Võru vald"
   },
   {
+    "id": 958,
     "company": "835hub OÜ",
     "code": 12602767,
     "active": "Registrisse kantud",
@@ -6713,6 +7673,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 959,
     "company": "844 Projekt OÜ",
     "code": 12928186,
     "active": "Registrisse kantud",
@@ -6720,6 +7681,7 @@
     "city": "Saue vald"
   },
   {
+    "id": 960,
     "company": "848 Invest OÜ",
     "code": 14785016,
     "active": "Registrisse kantud",
@@ -6727,6 +7689,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 961,
     "company": "(88-88) UÜ",
     "code": 14000848,
     "active": "Registrisse kantud",
@@ -6734,6 +7697,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 962,
     "company": "888MIR OÜ",
     "code": 12353896,
     "active": "Registrisse kantud",
@@ -6741,6 +7705,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 963,
     "company": "8.8 Capital OÜ",
     "code": 12810908,
     "active": "Registrisse kantud",
@@ -6748,6 +7713,7 @@
     "city": "Rae vald"
   },
   {
+    "id": 964,
     "company": "88 Design OÜ",
     "code": 14541662,
     "active": "Registrisse kantud",
@@ -6755,6 +7721,7 @@
     "city": "Viimsi vald"
   },
   {
+    "id": 965,
     "company": "88InsurTech OÜ",
     "code": 14508825,
     "active": "Registrisse kantud",
@@ -6762,6 +7729,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 966,
     "company": "88mph OÜ",
     "code": 11592469,
     "active": "Registrisse kantud",
@@ -6769,6 +7737,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 967,
     "company": "88 OÜ",
     "code": 12524955,
     "active": "Registrisse kantud",
@@ -6776,6 +7745,7 @@
     "city": "Tartu linn"
   },
   {
+    "id": 968,
     "company": "89141 Rakvere Piljardiklubi",
     "code": 80228542,
     "active": "Registrisse kantud",
@@ -6783,6 +7753,7 @@
     "city": "Lääne-Viru maakond"
   },
   {
+    "id": 969,
     "company": "89 OÜ",
     "code": 12845820,
     "active": "Registrisse kantud",
@@ -6790,6 +7761,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 970,
     "company": "8Allocate OÜ",
     "code": 12919889,
     "active": "Registrisse kantud",
@@ -6797,6 +7769,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 971,
     "company": "8AM OÜ",
     "code": 12948810,
     "active": "Registrisse kantud",
@@ -6804,6 +7777,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 972,
     "company": "8 Artvision Studio OÜ",
     "code": 12737651,
     "active": "Registrisse kantud",
@@ -6811,6 +7785,7 @@
     "city": "Ida-Viru maakond"
   },
   {
+    "id": 973,
     "company": "8bit OÜ",
     "code": 12646397,
     "active": "Registrisse kantud",
@@ -6818,6 +7793,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 974,
     "company": "8BitSoft OÜ",
     "code": 14387333,
     "active": "Registrisse kantud",
@@ -6825,6 +7801,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 975,
     "company": "8 Bits Space OÜ",
     "code": 14867109,
     "active": "Registrisse kantud",
@@ -6832,6 +7809,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 976,
     "company": "8 Blockchain Capital OÜ",
     "code": 14686857,
     "active": "Registrisse kantud",
@@ -6839,6 +7817,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 977,
     "company": "8D ARHITEKTUUR OÜ",
     "code": 12858395,
     "active": "Registrisse kantud",
@@ -6846,6 +7825,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 978,
     "company": "8 Delfiini OÜ",
     "code": 12417768,
     "active": "Registrisse kantud",
@@ -6853,6 +7833,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 979,
     "company": "8giga.com OÜ",
     "code": 12601325,
     "active": "Registrisse kantud",
@@ -6860,6 +7841,7 @@
     "city": "Lääne-Viru maakond"
   },
   {
+    "id": 980,
     "company": "8KA OÜ",
     "code": 14819353,
     "active": "Registrisse kantud",
@@ -6867,6 +7849,7 @@
     "city": "Valga vald"
   },
   {
+    "id": 981,
     "company": "8KND OÜ",
     "code": 14656201,
     "active": "Registrisse kantud",
@@ -6874,6 +7857,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 982,
     "company": "8 Minds OÜ",
     "code": 12535114,
     "active": "Registrisse kantud",
@@ -6881,6 +7865,7 @@
     "city": "Harku vald"
   },
   {
+    "id": 983,
     "company": "8M OÜ",
     "code": 12466979,
     "active": "Registrisse kantud",
@@ -6888,6 +7873,7 @@
     "city": "Tartu vald"
   },
   {
+    "id": 984,
     "company": "8point8 OÜ",
     "code": 14527662,
     "active": "Registrisse kantud",
@@ -6895,6 +7881,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 985,
     "company": "8PX OÜ",
     "code": 14481032,
     "active": "Registrisse kantud",
@@ -6902,6 +7889,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 986,
     "company": "8starflow OÜ",
     "code": 12877300,
     "active": "Registrisse kantud",
@@ -6909,6 +7897,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 987,
     "company": "8Starlife OÜ",
     "code": 14583620,
     "active": "Registrisse kantud",
@@ -6916,6 +7905,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 988,
     "company": "8TO8 OÜ",
     "code": 14329867,
     "active": "Registrisse kantud",
@@ -6923,6 +7913,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 989,
     "company": "8-WINDS OÜ",
     "code": 14113558,
     "active": "Registrisse kantud",
@@ -6930,6 +7921,7 @@
     "city": "Viljandi vald"
   },
   {
+    "id": 990,
     "company": "8win Grupp OÜ",
     "code": 14617690,
     "active": "Registrisse kantud",
@@ -6937,6 +7929,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 991,
     "company": "910Jack OÜ",
     "code": 14546043,
     "active": "Registrisse kantud",
@@ -6944,6 +7937,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 992,
     "company": "93rd Capital OÜ",
     "code": 14427127,
     "active": "Registrisse kantud",
@@ -6951,6 +7945,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 993,
     "company": "93rd Consult OÜ",
     "code": 14796942,
     "active": "Registrisse kantud",
@@ -6958,6 +7953,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 994,
     "company": "999Solutions OÜ",
     "code": 14346280,
     "active": "Registrisse kantud",
@@ -6965,6 +7961,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 995,
     "company": "99 Dimensions OÜ",
     "code": 14519929,
     "active": "Registrisse kantud",
@@ -6972,6 +7969,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 996,
     "company": "99funnel OÜ",
     "code": 14651907,
     "active": "Registrisse kantud",
@@ -6979,6 +7977,7 @@
     "city": "Tallinn"
   },
   {
+    "id": 997,
     "company": "99GADGETS OÜ",
     "code": 14265664,
     "active": "Registrisse kantud",
